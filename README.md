@@ -1,4 +1,10 @@
 ### Hi there 👋
+My name is Nenad.  
+I am a theoretical physicist and hold a PhD in Quantum Information Theory (Quantum Computing).
+
+- 🔭 I’m currently working on AI/ML-driven algorithm optimization and development via Python.
+- 🌱 I’m currently learning how to develop GUIs via PyQt5.
+- 📫 How to reach me: via [email](balaneskovic@gmx.net) or [linked-in](https://www.linkedin.com/in/nenad-balaneskovic-840322223/). 
 
 <!--
 **NenadBalaneskovic/NenadBalaneskovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
