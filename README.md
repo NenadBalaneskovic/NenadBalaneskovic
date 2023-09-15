@@ -25,7 +25,7 @@ I am a theoretical physicist and hold a PhD in Quantum Information Theory (Quant
 |Institute for Applied Physics, <br />University of Technology Darmstadt|01.10.2011 - 31.03.2016|Information Technology|Researcher (Quantum Computing)|
 
 --------------------------------------------------------------
-## Professional experience
+## Education
 
 |Institution| Time period| Major|Degree|
 |:----------:|:----------:|:----------:|:----------:|
