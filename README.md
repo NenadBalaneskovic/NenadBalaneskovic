@@ -24,19 +24,86 @@ I am a theoretical physicist and hold a PhD in Quantum Information Theory (Quant
 
 |Institution| Time period| Type of business|Title|
 |:----------:|:----------:|:----------:|:----------:|
-|nexonar|since 01.01.2022| Hardware \& software research| Optical engineer|
-|soft2tec GmbH| 01.03.2017 - 31.12.2021|Information technology| Technology consultant|
+|nexonar[^1]|since 01.01.2022| Hardware \& software research (Optical laboratory)| Optical engineer[^2]|
+|soft2tec GmbH[^1]| 01.03.2017 - 31.12.2021|Information technology| Technology consultant[^2]|
 |Institute for Applied Physics, <br />University of Technology Darmstadt|01.10.2011 - 31.03.2016|Information Technology|Researcher (Quantum Computing)|
+[^1]: Business area: Tracking systems for automotive, aerospace and general industries
+[^2]: Activity: Development and testing of algorithms for motion tracking, image processing, signal processing and data mining, as well as design, performance and analysis of experiments involving infra-red cameras and sensors
+--------------------------------------------------------------
+## Leadership and functional experience
 
+|Institution| Time period|# of people<br /> managed|Description|
+|:----------:|:----------:|:----------:|:----------:|
+|nexonar|since 01.01.2019|4|Managing maintenance, development and <br />tests of hardware calibration <br />procedures and validation algorithms <br /> in the laboratory department|
+|Institute for Applied Physics, <br />University of Technology Darmstadt|01. 12. 2011 - 31.12.2015|5|Managing research and deployment <br />of innovative technology|
 --------------------------------------------------------------
 ## Education
 
-|Institution| Time period| Major|Degree|
+|Institution| Time period| Major|Degree|Thesis title|
+|:----------:|:----------:|:----------:|:----------:|:----------:|
+|University of Technology Darmstadt|01.10.2011 - 31.03.2016|Physics|Dr. rer. nat. (Physics)| "_Random Unitary Operations and Quantum Darwinism_" <br />Link: http://tuprints.ulb.tu-darmstadt.de/5148/|
+|University of Technology Darmstadt <br/> Institute for Nuclear Physics, Cosmology department|01.10.2008 - 30.09.2011|Physics|MSc (Physics)|"_Nonequilibrium and the Functional Renormalization Group_"|
+|University of Technology Darmstadt <br/> Institute for Nuclear Physics|01.10.2005 - 30.09.2008|Physics|BSc (Physics)|"_Nonequilibrium Initial Conditions for Plasma Instabilities_"|
+|Grammar School »_Carl-Schurz-Schule_« in Frankfurt/M|01.08.2000 - 30.06.2005|Mathematics, Physics|High school diploma|"_Taylor approximation: Theoretical aspects of Taylor series expansion <br/> and their practical application in modern technology_"|
+
+### DPG-conferences
+
+|Location|Description|Institution|Date|
 |:----------:|:----------:|:----------:|:----------:|
-|University of Technology Darmstadt|01.10.2011 - 31.03.2016|Physics|Dr. rer. nat. (Physics)|
-|University of Technology Darmstadt|01.10.2008 - 30.09.2011|Physics|MSc (Physics)|
-|University of Technology Darmstadt|01.10.2005 - 30.09.2008|Physics|BSc (Physics)|
-|Grammar School »Carl-Schurz-Schule« in Frankfurt/M|01.08.2000 - 30.06.2005|Mathematics, Physics|High school diploma|
+|Heidelberg|Contribution: poster|Deutsche Physikalische Gesellschaft|17.03.2015|
+|Berlin|Contribution: presentation|Deutsche Physikalische Gesellschaft|15.03.2014|
+|Hannover|Contribution: poster|Deutsche Physikalische Gesellschaft|17.03.2013|
+|Stuttgart|Contribution: poster|Deutsche Physikalische Gesellschaft|12.03.2012|
+
+### DPG-seminars (in Bad Honnef)
+
+|Description|Institution|Date|
+|:----------:|:----------:|:----------:|
+|Contribution: poster|Deutsche Physikalische Gesellschaft|17.01.2016|
+|Contribution: poster|Deutsche Physikalische Gesellschaft|15.10.2015|
+|Contribution: poster|Deutsche Physikalische Gesellschaft|23.05.2015|
+|Contribution: poster|Deutsche Physikalische Gesellschaft|07.05.2012|
+
+### Research supervision
+
+|Description| Institution| Time period|
+|:----------:|:----------:|:----------:|
+|Supervision of the Bachelor-Thesis|University of Technology Darmstadt|01.05.2014 - 31.08.2014|
+|Supervision of the Bachelor-Thesis|University of Technology Darmstadt|01.05.2013 - 31.08.2013|
+
+### Coordination of tutoring sessions
+
+|Lecture| Institution| Time period|
+|:----------:|:----------:|:----------:|
+|Classical \& Statistical Mechanics|University of Technology Darmstadt|01.10.2015 - 31.03.2016|
+|Theoretical Quantum Optics|University of Technology Darmstadt|01.04.2015 - 30.09.2015|
+|Classical Mechanics|University of Technology Darmstadt|01.10.2012 - 31.03.2013|
+|Quantum Mechanics|University of Technology Darmstadt|01.04.2012 - 30.09.2012|
+|Electrodynamics|University of Technology Darmstadt|01.10.2011 - 31.03.2012|
+|Introduction to Theoretical Physics|University of Technology Darmstadt|01.04.2011 - 30.09.2011|
+|Quantum Mechanics|University of Technology Darmstadt|01.04.2010 - 30.09.2010|
+|Classical Mechanics|University of Technology Darmstadt|01.10.2009 - 31.03.2010|
+--------------------------------------------------------------
+## Additional certified experience
+
+|Institution| Time period (or Date)|Name|Description|
+|:----------:|:----------:|:----------:|:----------:|
+|VDI|19.02.2019|VDI-conference (Berlin)|Contribution: presentation|
+|Conference Series LLC|17.11.2016 - 18.11.2016|Atomic Physics 2016 Conference (Atlanta, USA)|Contribution: presentation \& poster|
+|Wigner Research Centre for Physics (Budapest)|05.05.2015|International Collaboration Conference (Pecs, Hungary)|Contribution: presentation|
+|University of Technology Darmstadt|13.05.2013|HDA certificate|Conceptualization of lectures and research projects|
+|University of Technology Darmstadt|09. 07.2010|Gerhard Herzberg Award|Award for special commitment to teaching and research|
+|University of Technology Darmstadt|01.10.2008 - 30.09.2010|Business, Corporate and Organization Management|M. Sc. Lectures|
+|University of Technology Darmstadt|01.10.2005 - 30.09.2010|Internship Measurement technology|Physical practical courses in <br />measurement technology (divisions: <br />Solid state physics, Polymer physics, <br /> Nuclear physics, Astronomy, Optics)|
+--------------------------------------------------------------
+## Special assignments / projects
+
+|Institution / project name| Time period (or Date)|Description|
+|:----------:|:----------:|:----------:|
+|Faurecia ArtIFIS Project|Sep 01, 2019 - Nov 30, 2019|ML-driven movement control of the robotic agent (ironing and steaming of car seat cushions)|
+|P\&G Manufacturing GmbH (Schwalbach am Taunus)|May 01, 2019 - Aug 31, 2019|ML- and AI-driven mitigation of sensor noise|
+|Honda (London)|Feb 01, 2018 - May 31, 2018|Mathematical modeling of factory workers' performance|
+|Sense Vojta Project at DRK-Kinderklinik (Siegen)|May 01, 2017 - Jan 31, 2020|ML-driven frequency analysis of body part movements|
 --------------------------------------------------------------
 ## Language skills
 
@@ -54,6 +121,16 @@ I am a theoretical physicist and hold a PhD in Quantum Information Theory (Quant
 |Eur. Phys. J. __D 69__, 232 (2015)|»_Random unitary evolution model of quantum Darwinism <br />with pure decoherence_«|Nenad Balaneskovic|
 |Eur. Phys. J. __D 70__, 177 (2016)|»_Dissipation, dephasing and quantum Darwinism <br />in qubit systems with random unitary interactions_«|Nenad Balaneskovic, Marc Mendler|
 |ISBN __978-3-659-83733-3__, <br />Scolar's Press (2017)|»_Random Unitary Operations and Quantum Darwinism- <br />Environment as an efficient quantum memory_«|Nenad Balaneskovic|
+--------------------------------------------------------------
+## Professional memberships
+
+|Organization| Position (Role)| Time period|
+|:----------:|:----------:|:----------:|
+|Gerhard Herzberg Gesellschaft|Member|01.07.2010 - 31.12.2023|
+|Deutsche Physikalische Gesellschaft <br/>(German Physical Society), <br/>DPG|Member|01.09.2005 - 31.12.2017|
+|Studienstiftung des deutschen Volkes|Scolarship recipient|01.09.2005 - 31.12.2007|
+|Gemeinnützige Hertie-Stiftung|Alumnus|01.07.2005 - 30.09.2023|
+|Gemeinnützige Hertie-Stiftung|Scolarship recipient|06.09.2002 - 30.06.2005|
 --------------------------------------------------------------
 
 <!--
