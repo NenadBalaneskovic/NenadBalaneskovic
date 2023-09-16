@@ -4,7 +4,7 @@ I am a theoretical physicist and hold a PhD in Quantum Information Theory (Quant
 
 - 🔭 I’m currently working on AI/ML-driven algorithm optimization and development via Python.
 - 🌱 I’m currently learning how to develop GUIs via PyQt5.
-- 📫 How to reach me: via [email](balaneskovic@gmx.net), [![XING](https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Nenad_Balaneskovic/cv) or [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nenad-balaneskovic-840322223).
+- 📫 How to reach me: via [email](balaneskovic@gmx.net), [![XING](https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Nenad_Balaneskovic/cv) or [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nenad-balaneskovic-840322223/).
 --------------------------------------------------------------
 
 ## Personal information
