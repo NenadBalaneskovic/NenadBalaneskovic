@@ -1,4 +1,7 @@
 # Hi there 👋
+
+![MainImage](https://github.com/NenadBalaneskovic/NenadBalaneskovic/blob/040a445cc13cb719e989c40bee82fac15bdad22f/FinalPic.png)
+
 My name is Nenad.  
 I am a theoretical physicist and hold a PhD in Quantum Information Theory (Quantum Computing).
 
