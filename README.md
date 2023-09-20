@@ -1,4 +1,5 @@
-# Hi there 👋
+# Hi there 👋 [![My Wiki](https://img.shields.io/badge/My%20Wiki-English-blue?logoColor=blue&labelColor=yellow)](https://github.com/NenadBalaneskovic/NenadBalaneskovic/wiki)
+]
 
 ![MainImage](https://github.com/NenadBalaneskovic/NenadBalaneskovic/blob/040a445cc13cb719e989c40bee82fac15bdad22f/FinalPic.png)
 
