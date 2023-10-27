@@ -94,6 +94,13 @@ I am a theoretical physicist and hold a PhD in Quantum Information Theory (Quant
 
 |Institution| Time period (or Date)|Name|Description|
 |:----------:|:----------:|:----------:|:----------:|
+|Github for Data Scientists|09.09.2023|AC-conference (Rüsselsheim am Main)|Contribution: test|
+|SAS Programming Essentials|31.08.2023|AC-conference (Rüsselsheim am Main)|Contribution: test|
+|SAP Business One Basics \& SAP Production Planning|01.06.2023|AC-conference (Rüsselsheim am Main)|Contribution: test|
+|Develop your leadership philosophy|30.05.2023|AC-conference (Rüsselsheim am Main)|Contribution: test|
+|Power BI: Dashboards for Beginners|07.03.2023|AC-conference (Rüsselsheim am Main)|Contribution: test|
+|Strategic thinking and action for managers|07.01.2023|AC-conference (Rüsselsheim am Main)|Contribution: test|
+|Talent Framework Atlas Copco Course|24.11.2022|AC-conference (Rüsselsheim am Main)|Contribution: test|
 |VDI|19.02.2019|VDI-conference (Berlin)|Contribution: presentation|
 |Conference Series LLC|17.11.2016 - 18.11.2016|Atomic Physics 2016 Conference (Atlanta, USA)|Contribution: presentation \& poster|
 |Wigner Research Centre for Physics (Budapest)|05.05.2015|International Collaboration Conference (Pecs, Hungary)|Contribution: presentation|
