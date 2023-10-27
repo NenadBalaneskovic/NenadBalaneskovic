@@ -94,13 +94,14 @@ I am a theoretical physicist and hold a PhD in Quantum Information Theory (Quant
 
 |Institution| Time period (or Date)|Name|Description|
 |:----------:|:----------:|:----------:|:----------:|
-|Github for Data Scientists|09.09.2023|AC-conference (Rüsselsheim am Main)|Contribution: test|
-|SAS Programming Essentials|31.08.2023|AC-conference (Rüsselsheim am Main)|Contribution: test|
-|SAP Business One Basics \& SAP Production Planning|01.06.2023|AC-conference (Rüsselsheim am Main)|Contribution: test|
-|Develop your leadership philosophy|30.05.2023|AC-conference (Rüsselsheim am Main)|Contribution: test|
-|Power BI: Dashboards for Beginners|07.03.2023|AC-conference (Rüsselsheim am Main)|Contribution: test|
-|Strategic thinking and action for managers|07.01.2023|AC-conference (Rüsselsheim am Main)|Contribution: test|
-|Talent Framework Atlas Copco Course|24.11.2022|AC-conference (Rüsselsheim am Main)|Contribution: test|
+|AC-conference (Rüsselsheim am Main)|09.09.2023|Github for Data Scientists|Contribution: test|
+|AC-conference (Rüsselsheim am Main)|31.08.2023|SAS Programming Essentials|Contribution: test|
+|AC-conference (Rüsselsheim am Main)|01.06.2023|SAP Business One Basics \& SAP Production Planning|Contribution: test|
+|AC-conference (Rüsselsheim am Main)|30.05.2023|Develop your leadership philosophy|Contribution: test|
+|AC-conference (Rüsselsheim am Main)|07.03.2023|Power BI: Dashboards for Beginners|Contribution: test|
+|AC-conference (Rüsselsheim am Main)|07.01.2023|Strategic thinking and action for managers|Contribution: test|
+|AC-conference (Rüsselsheim am Main)|24.11.2022|Talent Framework Atlas Copco Course|Contribution: test|
+|soft2tec GmbH / nexonar|since 01.08.2021|12 nexonar research-conferences (Rüsselsheim am Main)|Contribution: presentations|
 |VDI|19.02.2019|VDI-conference (Berlin)|Contribution: presentation|
 |Conference Series LLC|17.11.2016 - 18.11.2016|Atomic Physics 2016 Conference (Atlanta, USA)|Contribution: presentation \& poster|
 |Wigner Research Centre for Physics (Budapest)|05.05.2015|International Collaboration Conference (Pecs, Hungary)|Contribution: presentation|
