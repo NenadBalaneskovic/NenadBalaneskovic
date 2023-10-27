@@ -101,7 +101,7 @@ I am a theoretical physicist and hold a PhD in Quantum Information Theory (Quant
 |AC-conference (Rüsselsheim am Main)|07.03.2023|Power BI: Dashboards for Beginners|Contribution: test|
 |AC-conference (Rüsselsheim am Main)|07.01.2023|Strategic thinking and action for managers|Contribution: test|
 |AC-conference (Rüsselsheim am Main)|24.11.2022|Talent Framework Atlas Copco Course|Contribution: test|
-|soft2tec GmbH / nexonar|since 01.08.2021|12 nexonar research-conferences (Rüsselsheim am Main)|Contribution: presentations|
+|soft2tec GmbH / nexonar|since 01.08.2021|12 CCMA[^3] research-conferences (Rüsselsheim am Main)|Contribution: presentations|
 |VDI|19.02.2019|VDI-conference (Berlin)|Contribution: presentation|
 |Conference Series LLC|17.11.2016 - 18.11.2016|Atomic Physics 2016 Conference (Atlanta, USA)|Contribution: presentation \& poster|
 |Wigner Research Centre for Physics (Budapest)|05.05.2015|International Collaboration Conference (Pecs, Hungary)|Contribution: presentation|
@@ -109,6 +109,7 @@ I am a theoretical physicist and hold a PhD in Quantum Information Theory (Quant
 |University of Technology Darmstadt|09. 07.2010|Gerhard Herzberg Award|Award for special commitment to teaching and research|
 |University of Technology Darmstadt|01.10.2008 - 30.09.2010|Business, Corporate and Organization Management|M. Sc. Lectures|
 |University of Technology Darmstadt|01.10.2005 - 30.09.2010|Internship Measurement technology|Practical physical courses in <br />measurement technology (divisions: <br />Solid state physics, Polymer physics, <br /> Nuclear physics, Astronomy, Optics)|
+[^3]: nexonar's research division on "**C**amera **C**alibration \& **M**easurement **A**ccuracy"
 --------------------------------------------------------------
 ## Special assignments / projects
 
