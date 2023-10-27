@@ -115,8 +115,8 @@ I am a theoretical physicist and hold a PhD in Quantum Information Theory (Quant
 
 |Institution / project name| Time period (or Date)|Description|
 |:----------:|:----------:|:----------:|
-|nexonar hardware development (Desoutter \& Atlas Copco Group)|Jan 01, 2023 - May 31, 2025|Design of a new infra-red tracker form|
-|GUI development (Desoutter \& Atlas Copco Group)|Apr 01, 2022 - May 31, 2025|PyQt5-GUI for the automated camera calibration|
+|nexonar hardware development (Desoutter \& Atlas Copco Group)|Jan 01, 2023 - May 31, 2024|Design of a new infra-red tracker form|
+|GUI development (Desoutter \& Atlas Copco Group)|Apr 01, 2022 - May 31, 2024|PyQt5-GUI for the automated camera calibration|
 |MQTT-projects (Nissan, BMW, Airbus)|Dec 01, 2021 - Mar 31, 2022|Automation of lens apperture adjustments|
 |Cloud-based automation of camera validation (Atlas Copco Group)|May 01, 2021 - May 31, 2024|Google Apps Script implementation of the camera validation procedure|
 |Faurecia ArtIFIS Project|Sep 01, 2019 - Nov 30, 2019|ML-driven movement control of the robotic agent (ironing and steaming of car seat cushions)|
