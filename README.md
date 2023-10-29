@@ -122,8 +122,8 @@ I am a theoretical physicist and hold a PhD in Quantum Information Theory (Quant
 |Faurecia ArtIFIS Project|Sep 01, 2019 - Nov 30, 2019|ML-driven movement control of the robotic agent (ironing and steaming of car seat cushions)|
 |FALCON collaboration|Aug 01 2019 - Dec 31, 2021|FEM-modeling of external stress on housings of infra-red trackers|
 |LIANDRI collaboration|May 01, 2019 - Jun 30, 2024|Error estimation of distance measurements|
-|P\&G Manufacturing GmbH (Schwalbach am Taunus)|May 01, 2019 - Aug 31, 2019|ML- and AI-driven mitigation of sensor noise|
-|soft2tec GmbH (Rüsselsheim am Main)|Aug 01, 2018 - Oct 31, 2019|Gauge R&R Study optimization of the robustness of distance measurements in the course of a standard camera calibration procedure|
+|P\&G Manufacturing GmbH </br>(Schwalbach am Taunus)|May 01, 2019 - Aug 31, 2019|ML- and AI-driven mitigation of sensor noise|
+|soft2tec GmbH </br>(Rüsselsheim am Main)|Aug 01, 2018 - Oct 31, 2019|Gauge R&R Study optimization of the robustness of distance measurements in the course of a standard camera calibration procedure|
 |Honda (London)|Feb 01, 2018 - May 31, 2018|Mathematical modeling of factory workers' performance|
 |Sense Vojta Project at DRK-Kinderklinik (Siegen)|May 01, 2017 - Jan 31, 2020|ML-driven frequency analysis of body part movements|
 |nexonar Calibration Automation|Mar 01, 2017 - Jun 30, 2024|Automation of the camera calibration process|
