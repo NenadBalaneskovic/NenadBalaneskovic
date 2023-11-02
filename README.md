@@ -101,7 +101,7 @@ I am a theoretical physicist and hold a PhD in Quantum Information Theory (Quant
 |AC-conference (Rüsselsheim am Main)|07.03.2023|Power BI: Dashboards for Beginners|Contribution: test|
 |AC-conference (Rüsselsheim am Main)|07.01.2023|Strategic thinking and action for managers|Contribution: test|
 |AC-conference (Rüsselsheim am Main)|24.11.2022|Talent Framework Atlas Copco Course|Contribution: test|
-|soft2tec GmbH / nexonar|since 01.08.2021|12 CCMA[^3] research-conferences conducted (Rüsselsheim am Main)|Contribution: presentations|
+|soft2tec GmbH / nexonar|since 01.08.2021|14 CCMA[^3] research-conferences conducted (Rüsselsheim am Main)|Contribution: presentations|
 |VDI|19.02.2019|VDI-conference (Berlin)|Contribution: presentation|
 |Conference Series LLC|17.11.2016 - 18.11.2016|Atomic Physics 2016 Conference (Atlanta, USA)|Contribution: presentation \& poster|
 |Wigner Research Centre for Physics (Budapest)|05.05.2015|International Collaboration Conference (Pecs, Hungary)|Contribution: presentation|
