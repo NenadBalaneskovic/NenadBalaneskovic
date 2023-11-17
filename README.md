@@ -156,7 +156,7 @@ I am a theoretical physicist and hold a PhD in Quantum Information Theory (Quant
 |Studienstiftung des deutschen Volkes|Scolarship recipient|01.09.2005 - 31.12.2007|
 |Gemeinnützige Hertie-Stiftung|Alumnus|01.07.2005 - 30.09.2023|
 |Gemeinnützige Hertie-Stiftung|Scolarship recipient|06.09.2002 - 30.06.2005|
---------------------------------------------------------------
+<!-- -------------------------------------------------------------- -->
 
 <!--
 **NenadBalaneskovic/NenadBalaneskovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
