@@ -94,10 +94,17 @@ I am a theoretical physicist and hold a PhD in Quantum Information Theory (Quant
 
 |Institution| Time period (or Date)|Name|Description|
 |:----------:|:----------:|:----------:|:----------:|
-|AC-conference (online course)|25.11.2023|Python Projects <br /> Python: Unit-Testing <br /> Python: Type Annotations|Contribution: exercise|
-|AC-conference (Rüsselsheim am Main)|24.11.2023|Learning Hadoop <br /> Software Design: Modeling with UML <br /> Software Design: Developing Effective Requirements|Contribution: exercise|
+|AC-conference (online course)|03.12.2023|1) Learning Selenium <br /> 2) Level Up: Advanced Python <br /> 3) Advanced Python: Working with Data <br /> 4) GitHub Copilot First Look <br /> 5) Learning AI with GitHub Copilot|Contribution: exercises \& tests|
+|AC-conference (online course)|02.12.2023|Python Object-Oriented Programming|Contribution: test|
+|AC-conference (Rüsselsheim am Main)|01.12.2023|Essentials of MLOps with Azure: <br /> 1) Databricks MLflow and MLflow Tracking <br /> 2) Spark MLflow Projects on Databricks <br /> 3) Spark MLflow Models and Model Registry|Contribution: exercises \& tests|
+|AC-conference (Rüsselsheim am Main)|30.11.2023|Reinforcement Learning Foundations|Contribution: test|
+|AC-conference (Rüsselsheim am Main)|29.11.2023|Managing Python Projects|Contribution: exercise|
+|AC-conference (Rüsselsheim am Main)|27.11.2023|1) Apache Spark Deep Learning: Essential Training <br /> 2) Test Automation Foundations <br /> 3) Test Automation with Python: 1 Introduction to Automated Testing|Contribution: exercises \& tests|
+|AC-conference (online course)|26.11.2023|1) Python: Design Patterns <br /> 2) Python: Advanced Design Patterns <br /> 3) Advanced Design Patterns: Design Principles|Contribution: tests|
+|AC-conference (online course)|25.11.2023|1) Python Projects <br /> 2) Python: Unit-Testing <br /> 3) Python: Type Annotations|Contribution: exercises|
+|AC-conference (Rüsselsheim am Main)|24.11.2023|1) Learning Hadoop <br /> 2) Software Design: Modeling with UML <br /> 3) Software Design: Developing Effective Requirements|Contribution: exercises|
 |AC-conference (Rüsselsheim am Main)|21.11.2023|Programming Founations: Design Patterns|Contribution: exercise|
-|AC-conference (Rüsselsheim am Main)|20.11.2023|Spark for ML and AI <br /> Fuzzy Logic|Contribution: tests|
+|AC-conference (Rüsselsheim am Main)|20.11.2023|1) Spark for ML and AI <br /> 2) Fuzzy Logic|Contribution: tests|
 |AC-conference (Rüsselsheim am Main)|16.11.2023|MongoDB essentials and Python|Contribution: test|
 |AC-conference (Rüsselsheim am Main)|30.10.2023 - 02.11.2023|SAS Programming Essentials 2|Contribution: test|
 |AC-conference (Rüsselsheim am Main)|09.09.2023|Github for Data Scientists|Contribution: test|
