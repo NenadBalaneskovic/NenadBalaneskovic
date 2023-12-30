@@ -94,6 +94,13 @@ I am a theoretical physicist and hold a PhD in Quantum Information Theory (Quant
 
 |Institution| Time period (or Date)|Name|Description|
 |:----------:|:----------:|:----------:|:----------:|
+|AC-conference (Rüsselsheim am Main)|29.12.2023|1) Python Parallel and Concurrent Programming Part 2 <br /> 2) Python Functions for Data Science <br /> 3) Nail Your Python Interview <br /> 4) Python Data Analysis <br /> 5) Using Python for Automation|Contribution: tests \& exercises|
+|AC-conference (online course)|28.12.2023|1) NLP with Python for Machine Learning: Essential Training <br /> 2) Building Tools with Python|Contribution: exercises|
+|AC-conference (online course)|27.12.2023|1) NumPy Essential Training 1: Foundations of NumPy <br /> 2) NumPy Essential Training 2: MatPlotlib and Linear Algebra Capabilities|Contribution: exercises|
+|AC-conference (online course)|26.12.2023|Advanced NLP with Python for Machine Learning|Contribution: exercise|
+|AC-conference (online course)|24.12.2023|Python for Data Visualization|Contribution: exercise|
+|AC-conference (online course)|23.12.2023|1) Python Parallel and Concurrent Programming Part 1 <br /> 2) More Python Tips, Tricks, and Techniques for Data Science|Contribution: exercises \& tests|
+|AC-conference (Rüsselsheim am Main)|22.12.2023|1) Coding Exercises: pandas <br /> 2) Data Visualization in Python with Dash <br /> 3) Data Visualizations with Plotly <br /> 4) Python Data Science Mistakes to Avoid <br /> 5) Rapid Application Development with Python|Contribution: exercises|
 |AC-conference (Rüsselsheim am Main)|21.12.2023|Text Analytics and Predictions with Python: Essential Training|Contribution: test|
 |AC-conference (Rüsselsheim am Main)|20.12.2023|Faster Python Code|Contribution: exercise \& test|
 |AC-conference (Rüsselsheim am Main)|19.12.2023|1) pandas Essential Training <br /> 2) Python Data Structures and Algorithms|Contribution: exercises \& tests|
