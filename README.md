@@ -94,6 +94,9 @@ I am a theoretical physicist and hold a PhD in Quantum Information Theory (Quant
 
 |Institution| Time period (or Date)|Name|Description|
 |:----------:|:----------:|:----------:|:----------:|
+|AC-conference (online course)|25.11.2023|Python Projects <br /> Python: Unit-Testing <br /> Python: Type Annotations|Contribution: exercise|
+|AC-conference (Rüsselsheim am Main)|24.11.2023|Learning Hadoop <br /> Software Design: Modeling with UML <br /> Software Design: Developing Effective Requirements|Contribution: exercise|
+|AC-conference (Rüsselsheim am Main)|21.11.2023|Programming Founations: Design Patterns|Contribution: exercise|
 |AC-conference (Rüsselsheim am Main)|20.11.2023|Spark for ML and AI <br /> Fuzzy Logic|Contribution: tests|
 |AC-conference (Rüsselsheim am Main)|16.11.2023|MongoDB essentials and Python|Contribution: test|
 |AC-conference (Rüsselsheim am Main)|30.10.2023 - 02.11.2023|SAS Programming Essentials 2|Contribution: test|
