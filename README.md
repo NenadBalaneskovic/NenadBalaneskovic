@@ -94,6 +94,20 @@ I am a theoretical physicist and hold a PhD in Quantum Information Theory (Quant
 
 |Institution| Time period (or Date)|Name|Description|
 |:----------:|:----------:|:----------:|:----------:|
+|AC-conference (Rüsselsheim am Main)|21.12.2023|Text Analytics and Predictions with Python: Essential Training|Contribution: test|
+|AC-conference (Rüsselsheim am Main)|20.12.2023|Faster Python Code|Contribution: exercise \& test|
+|AC-conference (Rüsselsheim am Main)|19.12.2023|1) pandas Essential Training <br /> 2) Python Data Structures and Algorithms|Contribution: exercises \& tests|
+|AC-conference (Rüsselsheim am Main)|18.12.2023|1) Secure Coding in Python <br /> 2) Test Automation with Python: Python for Testers <br /> 3) Python for Algorithmic Thinking: Problem-Solving Skills <br /> 4) Algorithmic Thinking with Python: Developing Problem-Solving Skills <br /> 5) Data Ingestion with Python|Contribution: exercises \& tests|
+|AC-conference (online course)|17.12.2023|1) Advanced Python: Working with Databases <br /> 2) Python Data Structures: Sets and Frozen Sets <br /> 3) Python Data Structures: Power of Linked Lists for Technical Interviews <br /> 4) Faster pandas <br /> 5) Advanced Pandas <br /> 6) Python for Data Science Tips, Tricks, & Techniques|Contribution: exercises \& tests|
+|AC-conference (online course)|16.12.2023|Advanced Python: Practical Database Examples|Contribution: exercise|
+|AC-conference (Rüsselsheim am Main)|15.12.2023|1) Effective Serialization with Python <br /> 2) Developing Secure Software <br /> 3) Multithreading mit Python|Contribution: exercises \& tests|
+|AC-conference (Rüsselsheim am Main)|14.12.2023|1) Python: Programming Efficiently <br /> 2) Python: Working with Files|Contribution: exercises \& tests|
+|AC-conference (Rüsselsheim am Main)|11.12.2023|1) Python Data Structures: Trees <br /> 2) Unit Testing and Test Driven Development in Python <br /> 3) Processing Text with Python Essential Training|Contribution: exercises \& tests|
+|AC-conference (online course)|10.12.2023|1) Python: Recursion <br /> 2) Functional Programming with Python|Contribution: exercises \& tests|
+|AC-conference (online course)|09.12.2023|1) Programming Concepts for Python <br /> 2) Unit Testing in Python|Contribution: exercises \& tests|
+|AC-conference (Rüsselsheim am Main)|07.12.2023|1) Python: Statistische Auswertungen <br /> 2) Python für Systemadministratoren Grundkurs|Contribution: exercises|
+|AC-conference (Rüsselsheim am Main)|06.12.2023|1) 8 Things You Must Know in Python <br /> 2) Python: Geometrische Berechnungen|Contribution: exercises|
+|AC-conference (Rüsselsheim am Main)|04.12.2023|1) Python Data Structures: Dictionaries <br /> 2) Python: Decorators|Contribution: tests|
 |AC-conference (online course)|03.12.2023|1) Learning Selenium <br /> 2) Level Up: Advanced Python <br /> 3) Advanced Python: Working with Data <br /> 4) GitHub Copilot First Look <br /> 5) Learning AI with GitHub Copilot|Contribution: exercises \& tests|
 |AC-conference (online course)|02.12.2023|Python Object-Oriented Programming|Contribution: test|
 |AC-conference (Rüsselsheim am Main)|01.12.2023|Essentials of MLOps with Azure: <br /> 1) Databricks MLflow and MLflow Tracking <br /> 2) Spark MLflow Projects on Databricks <br /> 3) Spark MLflow Models and Model Registry|Contribution: exercises \& tests|
