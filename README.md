@@ -94,7 +94,7 @@ I am a theoretical physicist and hold a PhD in Quantum Information Theory (Quant
 
 |Institution| Time period (or Date)|Name|Description|
 |:----------:|:----------:|:----------:|:----------:|
-|AC-conference (Rüsselsheim am Main)|29.12.2023|1) Python Parallel and Concurrent Programming Part 2 <br /> 2) Python Functions for Data Science <br /> 3) Nail Your Python Interview <br /> 4) Python Data Analysis <br /> 5) Using Python for Automation|Contribution: tests \& exercises|
+|AC-conference (online course)|29.12.2023|1) Python Parallel and Concurrent Programming Part 2 <br /> 2) Python Functions for Data Science <br /> 3) Nail Your Python Interview <br /> 4) Python Data Analysis <br /> 5) Using Python for Automation|Contribution: tests \& exercises|
 |AC-conference (online course)|28.12.2023|1) NLP with Python for Machine Learning: Essential Training <br /> 2) Building Tools with Python|Contribution: exercises|
 |AC-conference (online course)|27.12.2023|1) NumPy Essential Training 1: Foundations of NumPy <br /> 2) NumPy Essential Training 2: MatPlotlib and Linear Algebra Capabilities|Contribution: exercises|
 |AC-conference (online course)|26.12.2023|Advanced NLP with Python for Machine Learning|Contribution: exercise|
