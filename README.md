@@ -142,7 +142,7 @@ I am a theoretical physicist and hold a PhD in Quantum Information Theory (Quant
 |University of Technology Darmstadt|13.05.2013|HDA certificate|Conceptualization of lectures and research projects|
 |University of Technology Darmstadt|09. 07.2010|Gerhard Herzberg Award|Award for special commitment to teaching and research|
 |University of Technology Darmstadt|01.10.2008 - 30.09.2010|Business, Corporate and Organization Management|M. Sc. Lectures|
-|University of Technology Darmstadt|01.10.2005 - 30.09.2010|Internship Measurement technology|Practical physical courses in <br />measurement technology (divisions: <br />Solid state physics, Polymer physics, <br /> Nuclear physics, Astronomy, Optics)|
+|University of Technology Darmstadt|01.10.2005 - 30.09.2010|Internship Measurement Technology|Practical physical courses in <br />measurement technology (divisions: <br />Solid state physics, Polymer physics, <br /> Nuclear physics, Astronomy, Optics)|
 [^3]: nexonar's research division on "**C**amera **C**alibration \& **M**easurement **A**ccuracy"
 --------------------------------------------------------------
 ## Special assignments / projects
