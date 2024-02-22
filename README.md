@@ -94,6 +94,18 @@ I am a theoretical physicist and hold a PhD in Quantum Information Theory (Quant
 
 |Institution| Time period (or Date)|Name|Description|
 |:----------:|:----------:|:----------:|:----------:|
+|AC-conference <br /> (Rüsselsheim am Main)|22.01.2024|1) Building a Personal Portfolio with Django <br /> 2) Test-Driven Development in Django <br /> 3) TensorFlow Grundkurs 1: Neuronale Netzwerke, Komponenten, Tensoren|Contribution: tests \& exercises|
+|AC-conference <br /> (online course)|21.01.2024|1) Django Grundkurs <br /> 2) Flask Grundkurs|Contribution: exercises|
+|AC-conference <br /> (online course)|18.01.2024|Kryptografie und Steganografie mit Python|Contribution: exercise|
+|AC-conference <br /> (online course)|16.01.2024|Learning Django|Contribution: exercise|
+|AC-conference <br /> (online course)|14.01.2024|1) Case Study: Visualize Complex Microservice Data Using Python <br /> 2) SQL Queries Made Easy <br /> 3) Introduction to Scala|Contribution: exercises|
+|AC-conference <br /> (online course)|13.01.2024|Learning SQL Programming|Contribution: exercise|
+|AC-conference <br /> (online course)|12.01.2024|1) Finance Foundations: Business Valuation <br /> 2) Python Projects: Create an Interactive Quiz Application|Contribution: tests \& exercises|
+|AC-conference <br /> (Rüsselsheim am Main)|11.01.2024|1) Finance Foundations: Risk Management <br /> 2) Create an Open-Source Project in Python <br /> 3) Build Three Real-World Python Applications|Contribution: exercises|
+|AC-conference <br /> (Rüsselsheim am Main)|10.01.2024|1) Data Ethics: Watching Out for Data Misuse <br /> 2) Machine Learning with Python: Foundations <br /> 3) Machine Learning with Python: k-Means Clustering <br /> 4) Machine Learning with Python: Association Rules <br /> 5) Investment Evaluation|Contribution: exercises|
+|AC-conference <br /> (Rüsselsheim am Main)|08.01.2024|1) Choose the Right Tool for Your Data: Python, R, or SQL <br /> 2) Advanced Business Development: Communication and Negotiation <br /> 3) Developing Ethical Hacking Tools with Python <br /> 4) Managing Your Personal Investments|Contribution: tests \& exercises|
+|AC-conference <br /> (Rüsselsheim am Main)|07.01.2024|1) Web Scraping with Python <br /> 2) Managing Your Personal Finances <br /> 3) Finance Strategies for Business Leaders <br /> 4) Foundations of Decentralized Finance (DeFi)|Contribution: tests \& exercises|
+|AC-conference <br /> (online course)|06.01.2024|1) Using Python with Excel <br /> 2) Corporate Finance: Robust Financial Modeling <br /> 3) Corporate Finance: Profitability in a Financial Downturn <br /> 4) Economics for Everyone: Understanding a Recession|Contribution: tests \& exercises|
 |AC-conference <br /> (online course)|29.12.2023|1) Python Parallel and Concurrent Programming Part 2 <br /> 2) Python Functions for Data Science <br /> 3) Nail Your Python Interview <br /> 4) Python Data Analysis <br /> 5) Using Python for Automation|Contribution: tests \& exercises|
 |AC-conference <br /> (online course)|28.12.2023|1) NLP with Python for Machine Learning: Essential Training <br /> 2) Building Tools with Python|Contribution: exercises|
 |AC-conference <br /> (online course)|27.12.2023|1) NumPy Essential Training 1: Foundations of NumPy <br /> 2) NumPy Essential Training 2: MatPlotlib and Linear Algebra Capabilities|Contribution: exercises|
