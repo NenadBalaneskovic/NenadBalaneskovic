@@ -149,6 +149,7 @@ I am a theoretical physicist and hold a PhD in Quantum Information Theory (Quant
 
 |Institution / project name| Time period (or Date)|Description|
 |:----------:|:----------:|:----------:|
+|nexonar quality control (Desoutter \& Atlas Copco Group)|Jan 01, 2024 - Dec 31, 2024|Design of new Gauge Study-driven procedures and software functionalities for quality control tests of produced hardware batches|
 |nexonar hardware development (Desoutter \& Atlas Copco Group)|Jan 01, 2023 - Jun 30, 2024|Design of a new infra-red tracker form|
 |GUI development (Desoutter \& Atlas Copco Group)|Apr 01, 2022 - Jun 30, 2024|PyQt5-GUI for the automated camera calibration|
 |MQTT-projects (Nissan, BMW, Airbus)|Dec 01, 2021 - Mar 31, 2022|Automation of lens aperture adjustments|
