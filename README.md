@@ -94,6 +94,23 @@ I am a theoretical physicist and hold a PhD in Quantum Information Theory (Quant
 
 |Institution| Time period (or Date)|Name|Description|
 |:----------:|:----------:|:----------:|:----------:|
+|AC-conference <br /> (online course)|20.02.2024|1) Python for Data Science Essential Training Part 1 <br /> 2) Python for Data Science Essential Training Part 2|Contribution: tests \& exercises|
+|AC-conference <br /> (online course)|19.02.2024|1) Practical Python for Algorithmic Trading <br /> 2) Dart Clean Code: Writing High-Efficiency, Maintainable Dart Programs|Contribution: exercises|
+|AC-conference <br /> (Rüsselsheim am Main)|18.02.2024|1) Finance Foundations: Corporate Governance <br /> 2) Managerial Finance Foundations <br /> 3) Introduction to Dart|Contribution: exercises|
+|AC-conference <br /> (online course)|17.02.2024|1) Algorithmic Trading and Stocks Essential Training <br /> 2) Using Tableau to Discover Powerful Business Insights|Contribution: exercises|
+|AC-conference <br /> (online course)|16.02.2024|1) Python: Working with Predictive Analytics <br /> 2) Financial Forecasting with Analytics Essential Training|Contribution: exercises|
+|AC-conference <br /> (Rüsselsheim am Main)|12.02.2024 - 15.02.2024|1) Data Science Foundations: Data Mining in Python <br /> 2) Foundations of Treasury Management <br /> 3) Getting Started with Python for Finance <br /> 4) Algorithmic Trading and Finance Models with Python, R, and Stata|Contribution: tests \& exercises|
+|AC-conference <br /> (Rüsselsheim am Main)|08.02.2024|1) PyTorch Essential Training: Deep Learning <br /> 2) Transfer Learning for Images Using PyTorch: Essential Training|Contribution: tests \& exercises|
+|AC-conference <br /> (Rüsselsheim am Main)|06.02.2024|1) Deploying Scalable Machine Learning for Data Science <br /> 2) Hands-On PyTorch Machine Learning <br /> 3) Natural Language Processing with PyTorch|Contribution: tests \& exercises|
+|AC-conference <br /> (Rüsselsheim am Main)|05.02.2024|1) Applied Machine Learning: Foundations <br /> 2) Applied Machine Learning: Feature Engineering <br /> 3) DevOps for Data Scientists|Contribution: tests \& exercises|
+|AC-conference <br /> (online course)|03.02.2024|1) Applied Machine Learning: Algorithms <br /> 2) Produktiv arbeiten – Schritt für Schritt zur individuellen Lösung <br /> 3) Applied Machine Learning: Algorithms|Contribution: exercises|
+|AC-conference <br /> (online course)|02.02.2024|1) Blockchain and Smart Contracts Security <br /> 2) Introduction to NFTs: Non-fungible Tokens <br /> 3) Cryptocurrency Foundations|Contribution: tests \& exercises|
+|AC-conference <br /> (Rüsselsheim am Main)|31.01.2024|1) Python for Health Sciences and Healthcare <br /> 2) Blockchain: Beyond the Basics|Contribution: exercises|
+|AC-conference <br /> (Rüsselsheim am Main)|30.01.2024|Python Statistics Essential Training|Contribution: exercise|
+|AC-conference <br /> (Rüsselsheim am Main)|29.01.2024|1) Designing RESTful APIs <br /> 2) How Blockchains Will Change Business|Contribution: tests \& exercises|
+|AC-conference <br /> (Rüsselsheim am Main)|26.01.2024|1) R und RStudio Grundkurs <br /> 2) Blockchain Basics|Contribution: tests \& exercises|
+|AC-conference <br /> (online course)|25.01.2024|TensorFlow Grundkurs 2: Machine-Learning-Projekte mit Python|Contribution: test \& exercise|
+|AC-conference <br /> (online course)|23.01.2024|Django: Forms|Contribution: exercise|
 |AC-conference <br /> (Rüsselsheim am Main)|22.01.2024|1) Building a Personal Portfolio with Django <br /> 2) Test-Driven Development in Django <br /> 3) TensorFlow Grundkurs 1: Neuronale Netzwerke, Komponenten, Tensoren|Contribution: tests \& exercises|
 |AC-conference <br /> (online course)|21.01.2024|1) Django Grundkurs <br /> 2) Flask Grundkurs|Contribution: exercises|
 |AC-conference <br /> (online course)|18.01.2024|Kryptografie und Steganografie mit Python|Contribution: exercise|
