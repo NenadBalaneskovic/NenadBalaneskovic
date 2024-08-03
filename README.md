@@ -74,6 +74,7 @@ I am a theoretical physicist and hold a PhD in Quantum Information Theory (Quant
 
 |Description| Institution| Time period|
 |:----------:|:----------:|:----------:|
+|Supervision of the Bachelor-Thesis|soft2tec GmbH Rüsselsheim /<br /> University of Applied Sciences Darmstadt|01.04.2024 - 31.07.2024|
 |Supervision of the Bachelor-Thesis|University of Technology Darmstadt|01.05.2014 - 31.08.2014|
 |Supervision of the Bachelor-Thesis|University of Technology Darmstadt|01.05.2013 - 31.08.2013|
 
