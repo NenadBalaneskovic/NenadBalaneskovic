@@ -109,11 +109,8 @@ I am a theoretical physicist and hold a PhD in Quantum Information Theory (Quant
 
 |Institution / project name| Time period (or Date)|Description|
 |:----------:|:----------:|:----------:|
-|nexonar quality control (Desoutter \& Atlas Copco Group)|Jan 01, 2024 - Dec 31, 2024|Design of new Gauge Study-driven procedures and software functionalities for quality control tests of produced hardware batches|
-|nexonar hardware development (Desoutter \& Atlas Copco Group)|Jan 01, 2023 - Jun 30, 2024|Design of a new infra-red tracker form|
-|GUI development (Desoutter \& Atlas Copco Group)|Apr 01, 2022 - Jun 30, 2024|PyQt5-GUI for the automated camera calibration|
+|Atlas Copco Group|Since May 01, 2021|[![ACG_Projects](https://img.shields.io/badge/ACG%20Projects-English-red?logoColor=red&labelColor=green)](https://github.com/NenadBalaneskovic/NenadBalaneskovic/blob/a29aa321da78728e83def46aae48d9d609f15e4b/AC_Group_Projects.pdf)|
 |MQTT-projects (Nissan, BMW, Airbus)|Dec 01, 2021 - Mar 31, 2022|Automation of lens aperture adjustments|
-|Cloud-based automation of camera validation (Atlas Copco Group)|May 01, 2021 - Jun 30, 2024|Google Apps Script implementation of the camera validation procedure|
 |Faurecia ArtIFIS Project|Sep 01, 2019 - Nov 30, 2019|ML-driven movement control of the robotic agent (ironing and steaming of car seat cushions)|
 |FALCON collaboration|Aug 01 2019 - Dec 31, 2021|FEM-modeling of external stress on housings of infra-red trackers|
 |LIANDRI collaboration|May 01, 2019 - Jun 30, 2024|Error estimation of distance measurements|
