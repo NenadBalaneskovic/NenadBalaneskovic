@@ -94,77 +94,8 @@ I am a theoretical physicist and hold a PhD in Quantum Information Theory (Quant
 
 |Institution| Time period (or Date)|Name|Description|
 |:----------:|:----------:|:----------:|:----------:|
-|AC-conference <br /> (online course)|20.02.2024|1) Python for Data Science Essential Training Part 1 <br /> 2) Python for Data Science Essential Training Part 2|Contribution: tests \& exercises|
-|AC-conference <br /> (online course)|19.02.2024|1) Practical Python for Algorithmic Trading <br /> 2) Dart Clean Code: Writing High-Efficiency, Maintainable Dart Programs|Contribution: exercises|
-|AC-conference <br /> (Rüsselsheim am Main)|18.02.2024|1) Finance Foundations: Corporate Governance <br /> 2) Managerial Finance Foundations <br /> 3) Introduction to Dart|Contribution: exercises|
-|AC-conference <br /> (online course)|17.02.2024|1) Algorithmic Trading and Stocks Essential Training <br /> 2) Using Tableau to Discover Powerful Business Insights|Contribution: exercises|
-|AC-conference <br /> (online course)|16.02.2024|1) Python: Working with Predictive Analytics <br /> 2) Financial Forecasting with Analytics Essential Training|Contribution: exercises|
-|AC-conference <br /> (Rüsselsheim am Main)|12.02.2024 - 15.02.2024|1) Data Science Foundations: Data Mining in Python <br /> 2) Foundations of Treasury Management <br /> 3) Getting Started with Python for Finance <br /> 4) Algorithmic Trading and Finance Models with Python, R, and Stata|Contribution: tests \& exercises|
-|AC-conference <br /> (Rüsselsheim am Main)|08.02.2024|1) PyTorch Essential Training: Deep Learning <br /> 2) Transfer Learning for Images Using PyTorch: Essential Training|Contribution: tests \& exercises|
-|AC-conference <br /> (Rüsselsheim am Main)|06.02.2024|1) Deploying Scalable Machine Learning for Data Science <br /> 2) Hands-On PyTorch Machine Learning <br /> 3) Natural Language Processing with PyTorch|Contribution: tests \& exercises|
-|AC-conference <br /> (Rüsselsheim am Main)|05.02.2024|1) Applied Machine Learning: Foundations <br /> 2) Applied Machine Learning: Feature Engineering <br /> 3) DevOps for Data Scientists|Contribution: tests \& exercises|
-|AC-conference <br /> (online course)|03.02.2024|1) Applied Machine Learning: Algorithms <br /> 2) Produktiv arbeiten – Schritt für Schritt zur individuellen Lösung <br /> 3) Applied Machine Learning: Algorithms|Contribution: exercises|
-|AC-conference <br /> (online course)|02.02.2024|1) Blockchain and Smart Contracts Security <br /> 2) Introduction to NFTs: Non-fungible Tokens <br /> 3) Cryptocurrency Foundations|Contribution: tests \& exercises|
-|AC-conference <br /> (Rüsselsheim am Main)|31.01.2024|1) Python for Health Sciences and Healthcare <br /> 2) Blockchain: Beyond the Basics|Contribution: exercises|
-|AC-conference <br /> (Rüsselsheim am Main)|30.01.2024|Python Statistics Essential Training|Contribution: exercise|
-|AC-conference <br /> (Rüsselsheim am Main)|29.01.2024|1) Designing RESTful APIs <br /> 2) How Blockchains Will Change Business|Contribution: tests \& exercises|
-|AC-conference <br /> (Rüsselsheim am Main)|26.01.2024|1) R und RStudio Grundkurs <br /> 2) Blockchain Basics|Contribution: tests \& exercises|
-|AC-conference <br /> (online course)|25.01.2024|TensorFlow Grundkurs 2: Machine-Learning-Projekte mit Python|Contribution: test \& exercise|
-|AC-conference <br /> (online course)|23.01.2024|Django: Forms|Contribution: exercise|
-|AC-conference <br /> (Rüsselsheim am Main)|22.01.2024|1) Building a Personal Portfolio with Django <br /> 2) Test-Driven Development in Django <br /> 3) TensorFlow Grundkurs 1: Neuronale Netzwerke, Komponenten, Tensoren|Contribution: tests \& exercises|
-|AC-conference <br /> (online course)|21.01.2024|1) Django Grundkurs <br /> 2) Flask Grundkurs|Contribution: exercises|
-|AC-conference <br /> (online course)|18.01.2024|Kryptografie und Steganografie mit Python|Contribution: exercise|
-|AC-conference <br /> (online course)|16.01.2024|Learning Django|Contribution: exercise|
-|AC-conference <br /> (online course)|14.01.2024|1) Case Study: Visualize Complex Microservice Data Using Python <br /> 2) SQL Queries Made Easy <br /> 3) Introduction to Scala|Contribution: exercises|
-|AC-conference <br /> (online course)|13.01.2024|Learning SQL Programming|Contribution: exercise|
-|AC-conference <br /> (online course)|12.01.2024|1) Finance Foundations: Business Valuation <br /> 2) Python Projects: Create an Interactive Quiz Application|Contribution: tests \& exercises|
-|AC-conference <br /> (Rüsselsheim am Main)|11.01.2024|1) Finance Foundations: Risk Management <br /> 2) Create an Open-Source Project in Python <br /> 3) Build Three Real-World Python Applications|Contribution: exercises|
-|AC-conference <br /> (Rüsselsheim am Main)|10.01.2024|1) Data Ethics: Watching Out for Data Misuse <br /> 2) Machine Learning with Python: Foundations <br /> 3) Machine Learning with Python: k-Means Clustering <br /> 4) Machine Learning with Python: Association Rules <br /> 5) Investment Evaluation|Contribution: exercises|
-|AC-conference <br /> (Rüsselsheim am Main)|08.01.2024|1) Choose the Right Tool for Your Data: Python, R, or SQL <br /> 2) Advanced Business Development: Communication and Negotiation <br /> 3) Developing Ethical Hacking Tools with Python <br /> 4) Managing Your Personal Investments|Contribution: tests \& exercises|
-|AC-conference <br /> (Rüsselsheim am Main)|07.01.2024|1) Web Scraping with Python <br /> 2) Managing Your Personal Finances <br /> 3) Finance Strategies for Business Leaders <br /> 4) Foundations of Decentralized Finance (DeFi)|Contribution: tests \& exercises|
-|AC-conference <br /> (online course)|06.01.2024|1) Using Python with Excel <br /> 2) Corporate Finance: Robust Financial Modeling <br /> 3) Corporate Finance: Profitability in a Financial Downturn <br /> 4) Economics for Everyone: Understanding a Recession|Contribution: tests \& exercises|
-|AC-conference <br /> (online course)|29.12.2023|1) Python Parallel and Concurrent Programming Part 2 <br /> 2) Python Functions for Data Science <br /> 3) Nail Your Python Interview <br /> 4) Python Data Analysis <br /> 5) Using Python for Automation|Contribution: tests \& exercises|
-|AC-conference <br /> (online course)|28.12.2023|1) NLP with Python for Machine Learning: Essential Training <br /> 2) Building Tools with Python|Contribution: exercises|
-|AC-conference <br /> (online course)|27.12.2023|1) NumPy Essential Training 1: Foundations of NumPy <br /> 2) NumPy Essential Training 2: MatPlotlib and Linear Algebra Capabilities|Contribution: exercises|
-|AC-conference <br /> (online course)|26.12.2023|Advanced NLP with Python for Machine Learning|Contribution: exercise|
-|AC-conference <br /> (online course)|24.12.2023|Python for Data Visualization|Contribution: exercise|
-|AC-conference <br /> (online course)|23.12.2023|1) Python Parallel and Concurrent Programming Part 1 <br /> 2) More Python Tips, Tricks, and Techniques for Data Science|Contribution: exercises \& tests|
-|AC-conference (Rüsselsheim am Main)|22.12.2023|1) Coding Exercises: pandas <br /> 2) Data Visualization in Python with Dash <br /> 3) Data Visualizations with Plotly <br /> 4) Python Data Science Mistakes to Avoid <br /> 5) Rapid Application Development with Python|Contribution: exercises|
-|AC-conference (Rüsselsheim am Main)|21.12.2023|Text Analytics and Predictions with Python: Essential Training|Contribution: test|
-|AC-conference (Rüsselsheim am Main)|20.12.2023|Faster Python Code|Contribution: exercise \& test|
-|AC-conference (Rüsselsheim am Main)|19.12.2023|1) pandas Essential Training <br /> 2) Python Data Structures and Algorithms|Contribution: exercises \& tests|
-|AC-conference (Rüsselsheim am Main)|18.12.2023|1) Secure Coding in Python <br /> 2) Test Automation with Python: Python for Testers <br /> 3) Python for Algorithmic Thinking: Problem-Solving Skills <br /> 4) Algorithmic Thinking with Python: Developing Problem-Solving Skills <br /> 5) Data Ingestion with Python|Contribution: exercises \& tests|
-|AC-conference <br /> (online course)|17.12.2023|1) Advanced Python: Working with Databases <br /> 2) Python Data Structures: Sets and Frozen Sets <br /> 3) Python Data Structures: Power of Linked Lists for Technical Interviews <br /> 4) Faster pandas <br /> 5) Advanced Pandas <br /> 6) Python for Data Science Tips, Tricks, & Techniques|Contribution: exercises \& tests|
-|AC-conference <br /> (online course)|16.12.2023|Advanced Python: Practical Database Examples|Contribution: exercise|
-|AC-conference (Rüsselsheim am Main)|15.12.2023|1) Effective Serialization with Python <br /> 2) Developing Secure Software <br /> 3) Multithreading mit Python|Contribution: exercises \& tests|
-|AC-conference (Rüsselsheim am Main)|14.12.2023|1) Python: Programming Efficiently <br /> 2) Python: Working with Files|Contribution: exercises \& tests|
-|AC-conference (Rüsselsheim am Main)|11.12.2023|1) Python Data Structures: Trees <br /> 2) Unit Testing and Test Driven Development in Python <br /> 3) Processing Text with Python Essential Training|Contribution: exercises \& tests|
-|AC-conference <br /> (online course)|10.12.2023|1) Python: Recursion <br /> 2) Functional Programming with Python|Contribution: exercises \& tests|
-|AC-conference <br /> (online course)|09.12.2023|1) Programming Concepts for Python <br /> 2) Unit Testing in Python|Contribution: exercises \& tests|
-|AC-conference (Rüsselsheim am Main)|07.12.2023|1) Python: Statistische Auswertungen <br /> 2) Python für Systemadministratoren Grundkurs|Contribution: exercises|
-|AC-conference (Rüsselsheim am Main)|06.12.2023|1) 8 Things You Must Know in Python <br /> 2) Python: Geometrische Berechnungen|Contribution: exercises|
-|AC-conference (Rüsselsheim am Main)|04.12.2023|1) Python Data Structures: Dictionaries <br /> 2) Python: Decorators|Contribution: tests|
-|AC-conference <br /> (online course)|03.12.2023|1) Learning Selenium <br /> 2) Level Up: Advanced Python <br /> 3) Advanced Python: Working with Data <br /> 4) GitHub Copilot First Look <br /> 5) Learning AI with GitHub Copilot|Contribution: exercises \& tests|
-|AC-conference <br /> (online course)|02.12.2023|Python Object-Oriented Programming|Contribution: test|
-|AC-conference (Rüsselsheim am Main)|01.12.2023|Essentials of MLOps with Azure: <br /> 1) Databricks MLflow and MLflow Tracking <br /> 2) Spark MLflow Projects on Databricks <br /> 3) Spark MLflow Models and Model Registry|Contribution: exercises \& tests|
-|AC-conference (Rüsselsheim am Main)|30.11.2023|Reinforcement Learning Foundations|Contribution: test|
-|AC-conference (Rüsselsheim am Main)|29.11.2023|Managing Python Projects|Contribution: exercise|
-|AC-conference (Rüsselsheim am Main)|27.11.2023|1) Apache Spark Deep Learning: Essential Training <br /> 2) Test Automation Foundations <br /> 3) Test Automation with Python: 1 Introduction to Automated Testing|Contribution: exercises \& tests|
-|AC-conference <br /> (online course)|26.11.2023|1) Python: Design Patterns <br /> 2) Python: Advanced Design Patterns <br /> 3) Advanced Design Patterns: Design Principles|Contribution: tests|
-|AC-conference <br /> (online course)|25.11.2023|1) Python Projects <br /> 2) Python: Unit-Testing <br /> 3) Python: Type Annotations|Contribution: exercises|
-|AC-conference (Rüsselsheim am Main)|24.11.2023|1) Learning Hadoop <br /> 2) Software Design: Modeling with UML <br /> 3) Software Design: Developing Effective Requirements|Contribution: exercises|
-|AC-conference (Rüsselsheim am Main)|21.11.2023|Programming Founations: Design Patterns|Contribution: exercise|
-|AC-conference (Rüsselsheim am Main)|20.11.2023|1) Spark for ML and AI <br /> 2) Fuzzy Logic|Contribution: tests|
-|AC-conference (Rüsselsheim am Main)|16.11.2023|MongoDB essentials and Python|Contribution: test|
-|AC-conference (Rüsselsheim am Main)|30.10.2023 - 02.11.2023|SAS Programming Essentials 2|Contribution: test|
-|AC-conference (Rüsselsheim am Main)|09.09.2023|Github for Data Scientists|Contribution: test|
-|AC-conference (Rüsselsheim am Main)|31.08.2023|SAS Programming Essentials|Contribution: test|
-|AC-conference (Rüsselsheim am Main)|01.06.2023|SAP Business One Basics \& SAP Production Planning|Contribution: test|
-|AC-conference (Rüsselsheim am Main)|30.05.2023|Develop your leadership philosophy|Contribution: test|
-|AC-conference (Rüsselsheim am Main)|07.03.2023|Power BI: Dashboards for Beginners|Contribution: test|
-|AC-conference (Rüsselsheim am Main)|07.01.2023|Strategic thinking and action for managers|Contribution: test|
-|AC-conference (Rüsselsheim am Main)|24.11.2022|Talent Framework Atlas Copco Course|Contribution: test|
-|soft2tec GmbH / nexonar|since 01.08.2021|14 CCMA[^3] research-conferences conducted (Rüsselsheim am Main)|Contribution: presentations|
+|AC-conference (Rüsselsheim am Main)|since 24.11.2022|[![AC_Certificates](https://img.shields.io/badge/AC%20Certificates-English-yellow?logoColor=yellow&labelColor=blue)](https://github.com/NenadBalaneskovic/NenadBalaneskovic/blob/db43fc316301d540d87de34bbf06473e1527db92/AC_Certificates_List.pdf)|Contribution: tests & exercises|
+|soft2tec GmbH / nexonar <br /> (Rüsselsheim am Main)|since 01.08.2021|14 CCMA[^3] research-conferences conducted <br />(Rüsselsheim am Main)|Contribution: presentations|
 |VDI|19.02.2019|VDI-conference (Berlin)|Contribution: presentation|
 |Conference Series LLC|17.11.2016 - 18.11.2016|Atomic Physics 2016 Conference (Atlanta, USA)|Contribution: presentation \& poster|
 |Wigner Research Centre for Physics (Budapest)|05.05.2015|International Collaboration Conference (Pecs, Hungary)|Contribution: presentation|
