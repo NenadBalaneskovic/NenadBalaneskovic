@@ -118,7 +118,7 @@ I am a theoretical physicist and hold a PhD in Quantum Information Theory (Quant
 |soft2tec GmbH </br>(Rüsselsheim am Main)|Aug 01, 2018 - Oct 31, 2019|Gauge R&R Study optimization of the robustness of distance measurements in the course of a standard camera calibration procedure|
 |Honda (London)|Feb 01, 2018 - May 31, 2018|Mathematical modeling of factory workers' performance|
 |Sense Vojta Project at DRK-Kinderklinik (Siegen)|May 01, 2017 - Jan 31, 2020|ML-driven frequency analysis of body part movements|
-|nexonar Calibration Automation|Mar 01, 2017 - Jun 30, 2024|Automation of the camera calibration process|
+|nexonar Calibration Automation|Since Mar 01, 2017|Automation of the camera calibration process|
 --------------------------------------------------------------
 ## Language skills
 
