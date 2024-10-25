@@ -109,7 +109,7 @@ I am a theoretical physicist and hold a PhD in Quantum Information Theory (Quant
 
 |Institution / project name| Time period (or Date)|Description|
 |:----------:|:----------:|:----------:|
-|Atlas Copco Group|Since May 01, 2021|[![ACG_Projects](https://img.shields.io/badge/ACG%20Projects-English-red?logoColor=red&labelColor=green)](https://github.com/NenadBalaneskovic/NenadBalaneskovic/blob/0bf298bf9352fb5990ff956ebabcf44c67057937/AC_Group_Projects.pdf)|
+|Atlas Copco Group|Since May 01, 2021|[![ACG_Projects](https://img.shields.io/badge/ACG%20Projects-English-red?logoColor=red&labelColor=green)](https://github.com/NenadBalaneskovic/NenadBalaneskovic/blob/eac42667d608d35ca9fb8f41ad207f08cc0898c3/AC_Group_Projects.pdf)|
 |MQTT-projects (Nissan, BMW, Airbus)|Dec 01, 2021 - Mar 31, 2022|Automation of lens aperture adjustments|
 |Faurecia ArtIFIS Project|Sep 01, 2019 - Nov 30, 2019|ML-driven movement control of the robotic agent (ironing and steaming of car seat cushions)|
 |FALCON collaboration|Aug 01 2019 - Dec 31, 2021|FEM-modeling of external stress on housings of infra-red trackers|
