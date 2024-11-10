@@ -32,8 +32,8 @@ I am a theoretical physicist and hold a PhD in Quantum Information Theory (Quant
 |nexonar[^1]|since 01.01.2022| Hardware \& software research (Optical laboratory)| Optical engineer[^2]|
 |soft2tec GmbH[^1]| 01.03.2017 - 31.12.2021|Information technology| Technology consultant[^2]|
 |Institute for Applied Physics, <br />University of Technology Darmstadt|01.10.2011 - 31.03.2016|Information Technology|Researcher (Quantum Computing)|
-[^1]: Business area: Tracking systems for automotive, aerospace and general industries
-[^2]: Activity: Development and testing of algorithms for motion tracking, image processing, signal processing and data mining, as well as design, performance and analysis of experiments involving infra-red cameras and sensors
+[^1]: Business area: Tracking systems for automotive, aerospace, medical and general industries
+[^2]: Activity: Data analysis and data engineering as part of various industrial data science projects (automotive, aerospace and medical industries). Development and testing of AI- and ML-algorithms for motion tracking, image processing, signal processing, process automation, quality and reliability control of industrial processes and data mining, as well as design, performance and analysis of experiments involving infra-red cameras and sensors
 --------------------------------------------------------------
 ## Leadership and functional experience
 
