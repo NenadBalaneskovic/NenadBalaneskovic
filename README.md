@@ -95,7 +95,7 @@ I am a theoretical physicist and hold a PhD in Quantum Information Theory (Quant
 |Institution| Time period (or Date)|Name|Description|
 |:----------:|:----------:|:----------:|:----------:|
 |AC-conference (Rüsselsheim am Main)|since 24.11.2022|[![AC_Certificates](https://img.shields.io/badge/AC%20Certificates-English-yellow?logoColor=yellow&labelColor=blue)](https://github.com/NenadBalaneskovic/NenadBalaneskovic/blob/f27fd13c347208792c6f7ba159b62d1b44b3ac6a/AC_Certificates_List.pdf)|Contribution: tests & exercises|
-|soft2tec GmbH / nexonar <br /> (Rüsselsheim am Main)|since 01.08.2021|14 CCMA[^3] research-conferences conducted <br />[![CCMA_Talks](https://img.shields.io/badge/CCMA%20Talks-English-green?logoColor=green&labelColor=yellow)](https://github.com/NenadBalaneskovic/NenadBalaneskovic/blob/538e406e78164ca93028dd56399a1bbf409aa203/CCMA_Announcements.pdf)|Contribution: presentations|
+|soft2tec GmbH / nexonar <br /> (Rüsselsheim am Main)|since 01.08.2021|14 CCMA[^3] research-conferences conducted <br />[![CCMA_Talks](https://img.shields.io/badge/CCMA%20Talks-English-green?logoColor=green&labelColor=yellow)](https://github.com/NenadBalaneskovic/NenadBalaneskovic/blob/0b0f0ab15dfb558398685407861f5024bf88aceb/CCMA_MeetingsList.pdf)|Contribution: presentations|
 |VDI|19.02.2019|VDI-conference (Berlin)|Contribution: presentation|
 |Conference Series LLC|17.11.2016 - 18.11.2016|Atomic Physics 2016 Conference (Atlanta, USA)|Contribution: presentation \& poster|
 |Wigner Research Centre for Physics (Budapest)|05.05.2015|International Collaboration Conference (Pecs, Hungary)|Contribution: presentation|
