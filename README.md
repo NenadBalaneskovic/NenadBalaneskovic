@@ -16,7 +16,7 @@ I am a theoretical physicist and hold a PhD in Quantum Information Theory (Quant
   
   [![QuantumBeats](https://avatars.githubusercontent.com/u/145560600?s=88&v=4)](https://github.com/QuantumBeats)
 --------------------------------------------------------------
-## Personal information [![MyCV](https://img.shields.io/badge/My%20CV-English-blue?logoColor=blue&labelColor=green)](https://github.com/NenadBalaneskovic/NenadBalaneskovic/blob/c4d3a36be602652384e8447969f410a65207cef4/NenadBalaneskovicCV_2025.pdf) 
+## Personal information [![MyCV](https://img.shields.io/badge/My%20CV-English-blue?logoColor=blue&labelColor=green)](https://github.com/NenadBalaneskovic/NenadBalaneskovic/blob/3603b8d8b21525a179b71a7eb36d9f41da834f9e/NenadBalaneskovicCV_2025.pdf) 
 
 - First name: __Nenad__
 - Last name: __Balaneskovic__
