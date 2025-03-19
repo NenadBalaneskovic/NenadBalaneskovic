@@ -49,7 +49,7 @@ I am a theoretical physicist and hold a PhD in Quantum Information Theory (Quant
 
 |Institution| Time period| Major|Degree|Thesis title|
 |:----------:|:----------:|:----------:|:----------:|:----------:|
-|University of Technology Darmstadt <br/> Institute for Applied Physics, Quantum information department|01.10.2011 - 31.03.2016|Physics|Dr. rer. nat. (Physics)| "_Random Unitary Operations and Quantum Darwinism_" <br />Link: http://tuprints.ulb.tu-darmstadt.de/5148/|
+|University of Technology Darmstadt <br/> Institute for Applied Physics, Quantum information department|01.10.2011 - 31.03.2016|Physics|Dr. rer. nat. (Physics)| "_Random Unitary Operations and Quantum Darwinism_" <br />Link: https://tuprints.ulb.tu-darmstadt.de/id/eprint/5148|
 |University of Technology Darmstadt <br/> Institute for Nuclear Physics, Cosmology department|01.10.2008 - 30.09.2011|Physics|MSc (Physics)|"_Nonequilibrium and the Functional Renormalization Group_"|
 |University of Technology Darmstadt <br/> Institute for Nuclear Physics|01.10.2005 - 30.09.2008|Physics|BSc (Physics)|"_Nonequilibrium Initial Conditions for Plasma Instabilities_"|
 |Grammar School »_Carl-Schurz-Schule_« in Frankfurt/M|01.08.2000 - 30.06.2005|Mathematics, Physics|High school diploma|"_Taylor approximation: Theoretical aspects of Taylor series expansion <br/> and their practical application in modern technology_"|
