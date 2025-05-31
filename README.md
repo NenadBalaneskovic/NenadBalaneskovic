@@ -53,70 +53,70 @@ I am a theoretical physicist and hold a PhD in Quantum Information Theory (Quant
 
 |Institution| Time period| Major|Degree|Thesis title|
 |:----------:|:----------:|:----------:|:----------:|:----------:|
-|University of Technology Darmstadt <br/> Institute for Applied Physics, Quantum information department|01.10.2011 - 31.03.2016|Physics|Dr. rer. nat. (Physics)| "_Random Unitary Operations and Quantum Darwinism_" <br />Link: https://tuprints.ulb.tu-darmstadt.de/id/eprint/5148|
-|University of Technology Darmstadt <br/> Institute for Nuclear Physics, Cosmology department|01.10.2008 - 30.09.2011|Physics|MSc (Physics)|"_Nonequilibrium and the Functional Renormalization Group_"|
-|University of Technology Darmstadt <br/> Institute for Nuclear Physics|01.10.2005 - 30.09.2008|Physics|BSc (Physics)|"_Nonequilibrium Initial Conditions for Plasma Instabilities_"|
-|Grammar School »_Carl-Schurz-Schule_« in Frankfurt/M|01.08.2000 - 30.06.2005|Mathematics, Physics|High school diploma|"_Taylor approximation: Theoretical aspects of Taylor series expansion <br/> and their practical application in modern technology_"|
+|University of Technology Darmstadt <br/> Institute for Applied Physics, Quantum information department|01. 10. 2011 - 31. 03. 2016|Physics|Dr. rer. nat. (Physics)| "_Random Unitary Operations and Quantum Darwinism_" <br />Link: https://tuprints.ulb.tu-darmstadt.de/id/eprint/5148|
+|University of Technology Darmstadt <br/> Institute for Nuclear Physics, Cosmology department|01. 10. 2008 - 30. 09. 2011|Physics|MSc (Physics)|"_Nonequilibrium and the Functional Renormalization Group_"|
+|University of Technology Darmstadt <br/> Institute for Nuclear Physics|01. 10. 2005 - 30. 09. 2008|Physics|BSc (Physics)|"_Nonequilibrium Initial Conditions for Plasma Instabilities_"|
+|Grammar School »_Carl-Schurz-Schule_« in Frankfurt/M|01. 08. 2000 - 30. 06. 2005|Mathematics, Physics|High school diploma|"_Taylor approximation: Theoretical aspects of Taylor series expansion <br/> and their practical application in modern technology_"|
 
 ### DPG-conferences
 
 |Location|Description|Institution|Date|
 |:----------:|:----------:|:----------:|:----------:|
-|Heidelberg|Contribution: poster|Deutsche Physikalische Gesellschaft|17.03.2015|
-|Berlin|Contribution: presentation|Deutsche Physikalische Gesellschaft|15.03.2014|
-|Hannover|Contribution: poster|Deutsche Physikalische Gesellschaft|17.03.2013|
-|Stuttgart|Contribution: poster|Deutsche Physikalische Gesellschaft|12.03.2012|
+|Heidelberg|Contribution: poster|Deutsche Physikalische Gesellschaft|17. 03. 2015|
+|Berlin|Contribution: presentation|Deutsche Physikalische Gesellschaft|15. 03. 2014|
+|Hannover|Contribution: poster|Deutsche Physikalische Gesellschaft|17. 03. 2013|
+|Stuttgart|Contribution: poster|Deutsche Physikalische Gesellschaft|12. 03. 2012|
 
 ### DPG-seminars (in Bad Honnef)
 
 |Description|Institution|Date|
 |:----------:|:----------:|:----------:|
-|Contribution: poster|Deutsche Physikalische Gesellschaft|17.01.2016|
-|Contribution: poster|Deutsche Physikalische Gesellschaft|15.10.2015|
-|Contribution: poster|Deutsche Physikalische Gesellschaft|23.05.2015|
-|Contribution: poster|Deutsche Physikalische Gesellschaft|07.05.2012|
+|Contribution: poster|Deutsche Physikalische Gesellschaft|17. 01. 2016|
+|Contribution: poster|Deutsche Physikalische Gesellschaft|15. 10. 2015|
+|Contribution: poster|Deutsche Physikalische Gesellschaft|23. 05. 2015|
+|Contribution: poster|Deutsche Physikalische Gesellschaft|07. 05. 2012|
 
 ### Research supervision
 
 |Description| Institution| Time period|
 |:----------:|:----------:|:----------:|
-|Supervision of the Bachelor-Thesis|soft2tec GmbH Rüsselsheim /<br /> University of Applied Sciences Darmstadt|01.04.2024 - 31.07.2024|
-|Supervision of the Bachelor-Thesis|University of Technology Darmstadt|01.05.2014 - 31.08.2014|
-|Supervision of the Bachelor-Thesis|University of Technology Darmstadt|01.05.2013 - 31.08.2013|
+|Supervision of the Bachelor-Thesis|soft2tec GmbH Rüsselsheim /<br /> University of Applied Sciences Darmstadt|01. 04. 2024 - 31. 07. 2024|
+|Supervision of the Bachelor-Thesis|University of Technology Darmstadt|01. 05. 2014 - 31. 08. 2014|
+|Supervision of the Bachelor-Thesis|University of Technology Darmstadt|01. 05. 2013 - 31. 08. 2013|
 
 ### Coordination of tutoring sessions
 
 |Lecture| Institution| Time period|
 |:----------:|:----------:|:----------:|
-|Classical \& Statistical Mechanics|University of Technology Darmstadt|01.10.2015 - 31.03.2016|
-|Theoretical Quantum Optics|University of Technology Darmstadt|01.04.2015 - 30.09.2015|
-|Classical Mechanics|University of Technology Darmstadt|01.10.2012 - 31.03.2013|
-|Quantum Mechanics|University of Technology Darmstadt|01.04.2012 - 30.09.2012|
-|Electrodynamics|University of Technology Darmstadt|01.10.2011 - 31.03.2012|
-|Introduction to Theoretical Physics|University of Technology Darmstadt|01.04.2011 - 30.09.2011|
-|Quantum Mechanics|University of Technology Darmstadt|01.04.2010 - 30.09.2010|
-|Classical Mechanics|University of Technology Darmstadt|01.10.2009 - 31.03.2010|
+|Classical \& Statistical Mechanics|University of Technology Darmstadt|01. 10. 2015 - 31. 03. 2016|
+|Theoretical Quantum Optics|University of Technology Darmstadt|01. 04. 2015 - 30. 09. 2015|
+|Classical Mechanics|University of Technology Darmstadt|01. 10. 2012 - 31. 03. 2013|
+|Quantum Mechanics|University of Technology Darmstadt|01. 04. 2012 - 30. 09. 2012|
+|Electrodynamics|University of Technology Darmstadt|01. 10. 2011 - 31. 03. 2012|
+|Introduction to Theoretical Physics|University of Technology Darmstadt|01. 04. 2011 - 30. 09. 2011|
+|Quantum Mechanics|University of Technology Darmstadt|01. 04. 2010 - 30. 09. 2010|
+|Classical Mechanics|University of Technology Darmstadt|01. 10. 2009 - 31. 03. 2010|
 --------------------------------------------------------------
 ## Additional certified experience
 
 |Institution| Time period (or Date)|Name|Description|
 |:----------:|:----------:|:----------:|:----------:|
-|AC-conference (Rüsselsheim am Main)|since 24.11.2022|[![AC_Certificates](https://img.shields.io/badge/AC%20Certificates-English-yellow?logoColor=yellow&labelColor=blue)](https://github.com/NenadBalaneskovic/NenadBalaneskovic/blob/82cd3fd42fcc7d23c00c89882edeeea7f43e9d34/AC_Certificates_List.pdf)|Contribution: tests & exercises|
-|soft2tec GmbH / nexonar <br /> (Rüsselsheim am Main)|since 01.08.2021|14 CCMA[^3] research-conferences conducted <br />[![CCMA_Talks](https://img.shields.io/badge/CCMA%20Talks-English-green?logoColor=green&labelColor=yellow)](https://github.com/NenadBalaneskovic/NenadBalaneskovic/blob/ff9c0914d0385c33a732c6cdc46cf810a0c15043/CCMA_MeetingsList.pdf)|Contribution: presentations|
-|VDI|19.02.2019|VDI-conference (Berlin)|Contribution: presentation|
-|Conference Series LLC|17.11.2016 - 18.11.2016|Atomic Physics 2016 Conference (Atlanta, USA)|Contribution: presentation \& poster|
-|Wigner Research Centre for Physics (Budapest)|05.05.2015|International Collaboration Conference (Pecs, Hungary)|Contribution: presentation|
-|University of Technology Darmstadt|13.05.2013|HDA certificate|Conceptualization of lectures and research projects|
-|University of Technology Darmstadt|09. 07.2010|Gerhard Herzberg Award|Award for special commitment to teaching and research|
-|University of Technology Darmstadt|01.10.2008 - 30.09.2010|Business, Corporate and Organization Management|M. Sc. Lectures|
-|University of Technology Darmstadt|01.10.2005 - 30.09.2010|Internship Measurement Technology|Practical physical courses in <br />measurement technology (divisions: <br />Solid state physics, Polymer physics, <br /> Nuclear physics, Astronomy, Optics)|
+|AC-conference (Rüsselsheim am Main)|24. 11. 2022 - 31. 01. 2025|[![AC_Certificates](https://img.shields.io/badge/AC%20Certificates-English-yellow?logoColor=yellow&labelColor=blue)](https://github.com/NenadBalaneskovic/NenadBalaneskovic/blob/82cd3fd42fcc7d23c00c89882edeeea7f43e9d34/AC_Certificates_List.pdf)|Contribution: tests & exercises|
+|soft2tec GmbH / nexonar <br /> (Rüsselsheim am Main)|01.08.2021 - 31. 01. 2025|14 CCMA[^3] research-conferences conducted <br />[![CCMA_Talks](https://img.shields.io/badge/CCMA%20Talks-English-green?logoColor=green&labelColor=yellow)](https://github.com/NenadBalaneskovic/NenadBalaneskovic/blob/ff9c0914d0385c33a732c6cdc46cf810a0c15043/CCMA_MeetingsList.pdf)|Contribution: presentations|
+|VDI|19. 02. 2019|VDI-conference (Berlin)|Contribution: presentation|
+|Conference Series LLC|17. 11. 2016 - 18. 11. 2016|Atomic Physics 2016 Conference (Atlanta, USA)|Contribution: presentation \& poster|
+|Wigner Research Centre for Physics (Budapest)|05. 05. 2015|International Collaboration Conference (Pecs, Hungary)|Contribution: presentation|
+|University of Technology Darmstadt|13. 05. 2013|HDA certificate|Conceptualization of lectures and research projects|
+|University of Technology Darmstadt|09. 07. 2010|Gerhard Herzberg Award|Award for special commitment to teaching and research|
+|University of Technology Darmstadt|01. 10. 2008 - 30. 09. 2010|Business, Corporate and Organization Management|M. Sc. Lectures|
+|University of Technology Darmstadt|01. 10. 2005 - 30. 09. 2010|Internship Measurement Technology|Practical physical courses in <br />measurement technology (divisions: <br />Solid state physics, Polymer physics, <br /> Nuclear physics, Astronomy, Optics)|
 [^3]: nexonar's research division on "**C**amera **C**alibration \& **M**easurement **A**ccuracy"
 --------------------------------------------------------------
 ## Special assignments / projects
 
 |Institution / project name| Time period (or Date)|Description|
 |:----------:|:----------:|:----------:|
-|Atlas Copco Group|Since May 01, 2021|[![ACG_Projects](https://img.shields.io/badge/ACG%20Projects-English-red?logoColor=red&labelColor=green)](https://github.com/NenadBalaneskovic/NenadBalaneskovic/blob/eac42667d608d35ca9fb8f41ad207f08cc0898c3/AC_Group_Projects.pdf)|
+|Atlas Copco Group|May 01, 2021 - Jan 31, 2025|[![ACG_Projects](https://img.shields.io/badge/ACG%20Projects-English-red?logoColor=red&labelColor=green)](https://github.com/NenadBalaneskovic/NenadBalaneskovic/blob/eac42667d608d35ca9fb8f41ad207f08cc0898c3/AC_Group_Projects.pdf)|
 |MQTT-projects (Nissan, BMW, Airbus)|Dec 01, 2021 - Mar 31, 2022|Automation of lens aperture adjustments|
 |Faurecia ArtIFIS Project|Sep 01, 2019 - Nov 30, 2019|ML-driven movement control of the robotic agent (ironing and steaming of car seat cushions)|
 |FALCON collaboration|Aug 01 2019 - Dec 31, 2021|FEM-modeling of external stress on housings of infra-red trackers|
@@ -125,7 +125,7 @@ I am a theoretical physicist and hold a PhD in Quantum Information Theory (Quant
 |soft2tec GmbH </br>(Rüsselsheim am Main)|Aug 01, 2018 - Oct 31, 2019|Gauge R&R Study optimization of the robustness of distance measurements in the course of a standard camera calibration procedure|
 |Honda (London)|Feb 01, 2018 - May 31, 2018|Mathematical modeling of factory workers' performance|
 |Sense Vojta Project at DRK-Kinderklinik (Siegen)|May 01, 2017 - Jan 31, 2020|ML-driven frequency analysis of body part movements|
-|nexonar Calibration Automation|Since Mar 01, 2017|Automation of the camera calibration process|
+|nexonar Calibration Automation|Mar 01, 2017 - Jan 31, 2025|Automation of the camera calibration process|
 --------------------------------------------------------------
 ## Language skills
 
@@ -148,11 +148,11 @@ I am a theoretical physicist and hold a PhD in Quantum Information Theory (Quant
 
 |Organization| Position (Role)| Time period|
 |:----------:|:----------:|:----------:|
-|Gerhard Herzberg Gesellschaft|Member|01.07.2010 - 31.12.2023|
-|Deutsche Physikalische Gesellschaft <br/>(German Physical Society), <br/>DPG|Member|01.09.2005 - 31.12.2017|
-|Studienstiftung des deutschen Volkes|Scolarship recipient|01.09.2005 - 31.12.2007|
-|Gemeinnützige Hertie-Stiftung|Alumnus|01.07.2005 - 30.09.2023|
-|Gemeinnützige Hertie-Stiftung|Scolarship recipient|06.09.2002 - 30.06.2005|
+|Gerhard Herzberg Gesellschaft|Member|01. 07. 2010 - 31. 12. 2023|
+|Deutsche Physikalische Gesellschaft <br/>(German Physical Society), <br/>DPG|Member|01. 09. 2005 - 31. 12. 2017|
+|Studienstiftung des deutschen Volkes|Scolarship recipient|01. 09. 2005 - 31. 12. 2007|
+|Gemeinnützige Hertie-Stiftung|Alumnus|01. 07. 2005 - 30. 09. 2023|
+|Gemeinnützige Hertie-Stiftung|Scolarship recipient|06. 09. 2002 - 30. 06. 2005|
 <!-- -------------------------------------------------------------- -->
 
 <!--
