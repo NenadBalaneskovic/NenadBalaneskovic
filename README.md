@@ -45,8 +45,8 @@ I am a theoretical physicist and hold a PhD in Quantum Information Theory (Quant
 
 |Institution| Time period|# of people<br /> managed|Description|
 |:----------:|:----------:|:----------:|:----------:|
-|nexonar|01.01.2022 - 31. 01. 2025|4|Managing maintenance, development and <br />tests of hardware calibration <br />procedures and validation algorithms <br /> in the laboratory department|
-|soft2tec GmbH|01.03.2019 - 31. 12. 2021|4|Managing maintenance, development and <br />tests of hardware calibration <br />procedures and validation algorithms <br /> in the laboratory department|
+|nexonar|01. 01. 2022 - 31. 01. 2025|4|Managing maintenance, development and <br />tests of hardware calibration <br />procedures and validation algorithms <br /> in the laboratory department|
+|soft2tec GmbH|01. 03. 2019 - 31. 12. 2021|4|Managing maintenance, development and <br />tests of hardware calibration <br />procedures and validation algorithms <br /> in the laboratory department|
 |Institute for Applied Physics, <br />University of Technology Darmstadt|01. 12. 2011 - 31. 12. 2015|5|Managing research and deployment <br />of innovative technology|
 --------------------------------------------------------------
 ## Education
