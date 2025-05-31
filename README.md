@@ -45,9 +45,9 @@ I am a theoretical physicist and hold a PhD in Quantum Information Theory (Quant
 
 |Institution| Time period|# of people<br /> managed|Description|
 |:----------:|:----------:|:----------:|:----------:|
-|nexonar|01. 01. 2022 - 31. 01. 2025|4|Managing maintenance, development and <br />tests of hardware calibration procedures <br /> and ML/AI-driven validation algorithms <br /> in the laboratory department|
-|soft2tec GmbH|01. 03. 2019 - 31. 12. 2021|4|Managing maintenance, development and <br />tests of hardware calibration procedures <br /> and ML/AI-driven validation algorithms <br /> in the laboratory department|
-|Institute for Applied Physics, <br />University of Technology Darmstadt|01. 12. 2011 - 31. 12. 2015|5|Managing research and deployment <br />of innovative technology|
+|nexonar|01. 01. 2022  <br />-  <br />31. 01. 2025|4|Managing maintenance, development and <br />tests of hardware calibration procedures <br /> and ML/AI-driven validation algorithms <br /> in the laboratory department|
+|soft2tec GmbH|01. 03. 2019  <br />-  <br />31. 12. 2021|4|Managing maintenance, development and <br />tests of hardware calibration procedures <br /> and ML/AI-driven validation algorithms <br /> in the laboratory department|
+|Institute for Applied Physics, <br />University of Technology Darmstadt|01. 12. 2011  <br />-  <br />31. 12. 2015|5|Managing research and deployment <br />of innovative technology|
 --------------------------------------------------------------
 ## Education
 
@@ -101,31 +101,31 @@ I am a theoretical physicist and hold a PhD in Quantum Information Theory (Quant
 
 |Institution| Time period (or Date)|Name|Description|
 |:----------:|:----------:|:----------:|:----------:|
-|AC-conference (Rüsselsheim am Main)|24. 11. 2022 - 31. 01. 2025|[![AC_Certificates](https://img.shields.io/badge/AC%20Certificates-English-yellow?logoColor=yellow&labelColor=blue)](https://github.com/NenadBalaneskovic/NenadBalaneskovic/blob/82cd3fd42fcc7d23c00c89882edeeea7f43e9d34/AC_Certificates_List.pdf)|Contribution: tests & exercises|
-|soft2tec GmbH / nexonar <br /> (Rüsselsheim am Main)|01.08.2021 - 31. 01. 2025|14 CCMA[^3] research-conferences conducted <br />[![CCMA_Talks](https://img.shields.io/badge/CCMA%20Talks-English-green?logoColor=green&labelColor=yellow)](https://github.com/NenadBalaneskovic/NenadBalaneskovic/blob/ff9c0914d0385c33a732c6cdc46cf810a0c15043/CCMA_MeetingsList.pdf)|Contribution: presentations|
+|AC-conference (Rüsselsheim am Main)|24. 11. 2022 <br />-<br /> 31. 01. 2025|[![AC_Certificates](https://img.shields.io/badge/AC%20Certificates-English-yellow?logoColor=yellow&labelColor=blue)](https://github.com/NenadBalaneskovic/NenadBalaneskovic/blob/82cd3fd42fcc7d23c00c89882edeeea7f43e9d34/AC_Certificates_List.pdf)|Contribution: tests & exercises|
+|soft2tec GmbH / nexonar <br /> (Rüsselsheim am Main)|01.08.2021 <br />-<br /> 31. 01. 2025|14 CCMA[^3] research-conferences conducted <br />[![CCMA_Talks](https://img.shields.io/badge/CCMA%20Talks-English-green?logoColor=green&labelColor=yellow)](https://github.com/NenadBalaneskovic/NenadBalaneskovic/blob/ff9c0914d0385c33a732c6cdc46cf810a0c15043/CCMA_MeetingsList.pdf)|Contribution: presentations|
 |VDI|19. 02. 2019|VDI-conference (Berlin)|Contribution: presentation|
-|Conference Series LLC|17. 11. 2016 - 18. 11. 2016|Atomic Physics 2016 Conference (Atlanta, USA)|Contribution: presentation \& poster|
+|Conference Series LLC|17. 11. 2016 <br />-<br /> 18. 11. 2016|Atomic Physics 2016 Conference (Atlanta, USA)|Contribution: presentation \& poster|
 |Wigner Research Centre for Physics (Budapest)|05. 05. 2015|International Collaboration Conference (Pecs, Hungary)|Contribution: presentation|
 |University of Technology Darmstadt|13. 05. 2013|HDA certificate|Conceptualization of lectures and research projects|
 |University of Technology Darmstadt|09. 07. 2010|Gerhard Herzberg Award|Award for special commitment to teaching and research|
-|University of Technology Darmstadt|01. 10. 2008 - 30. 09. 2010|Business, Corporate and Organization Management|M. Sc. Lectures|
-|University of Technology Darmstadt|01. 10. 2005 - 30. 09. 2010|Internship Measurement Technology|Practical physical courses in <br />measurement technology (divisions: <br />Solid state physics, Polymer physics, <br /> Nuclear physics, Astronomy, Optics)|
+|University of Technology Darmstadt|01. 10. 2008 <br />-<br /> 30. 09. 2010|Business, Corporate and Organization Management|M. Sc. Lectures|
+|University of Technology Darmstadt|01. 10. 2005 <br />-<br /> 30. 09. 2010|Internship Measurement Technology|Practical physical courses in <br />measurement technology (divisions: <br />Solid state physics, Polymer physics, <br /> Nuclear physics, Astronomy, Optics)|
 [^3]: nexonar's research division on "**C**amera **C**alibration \& **M**easurement **A**ccuracy"
 --------------------------------------------------------------
 ## Special assignments / projects
 
 |Institution / project name| Time period (or Date)|Description|
 |:----------:|:----------:|:----------:|
-|Atlas Copco Group|May 01, 2021 - Jan 31, 2025|[![ACG_Projects](https://img.shields.io/badge/ACG%20Projects-English-red?logoColor=red&labelColor=green)](https://github.com/NenadBalaneskovic/NenadBalaneskovic/blob/eac42667d608d35ca9fb8f41ad207f08cc0898c3/AC_Group_Projects.pdf)|
-|MQTT-projects (Nissan, BMW, Airbus)|Dec 01, 2021 - Mar 31, 2022|Automation of lens aperture adjustments|
-|Faurecia ArtIFIS Project|Sep 01, 2019 - Nov 30, 2019|ML-driven movement control of the robotic agent (ironing and steaming of car seat cushions)|
-|FALCON collaboration|Aug 01 2019 - Dec 31, 2021|FEM-modeling of external stress on housings of infra-red trackers|
-|LIANDRI collaboration|May 01, 2019 - Jun 30, 2024|Error estimation of distance measurements|
-|P\&G Manufacturing GmbH </br>(Schwalbach am Taunus)|May 01, 2019 - Aug 31, 2019|ML- and AI-driven mitigation of sensor noise|
-|soft2tec GmbH </br>(Rüsselsheim am Main)|Aug 01, 2018 - Oct 31, 2019|Gauge R&R Study optimization of the robustness of distance measurements in the course of a standard camera calibration procedure|
-|Honda (London)|Feb 01, 2018 - May 31, 2018|Mathematical modeling of factory workers' performance|
-|Sense Vojta Project at DRK-Kinderklinik (Siegen)|May 01, 2017 - Jan 31, 2020|ML-driven frequency analysis of body part movements|
-|nexonar Calibration Automation|Mar 01, 2017 - Jan 31, 2025|Automation of the camera calibration process|
+|Atlas Copco Group|May 01, 2021 <br />-<br /> Jan 31, 2025|[![ACG_Projects](https://img.shields.io/badge/ACG%20Projects-English-red?logoColor=red&labelColor=green)](https://github.com/NenadBalaneskovic/NenadBalaneskovic/blob/eac42667d608d35ca9fb8f41ad207f08cc0898c3/AC_Group_Projects.pdf)|
+|MQTT-projects (Nissan, BMW, Airbus)|Dec 01, 2021 <br />-<br /> Mar 31, 2022|Automation of lens aperture adjustments|
+|Faurecia ArtIFIS Project|Sep 01, 2019 <br />-<br /> Nov 30, 2019|ML-driven movement control of the robotic agent (ironing and steaming of car seat cushions)|
+|FALCON collaboration|Aug 01 2019 <br />-<br /> Dec 31, 2021|FEM-modeling of external stress on housings of infra-red trackers|
+|LIANDRI collaboration|May 01, 2019 <br />-<br /> Jun 30, 2024|Error estimation of distance measurements|
+|P\&G Manufacturing GmbH </br>(Schwalbach am Taunus)|May 01, 2019 <br />-<br /> Aug 31, 2019|ML- and AI-driven mitigation of sensor noise|
+|soft2tec GmbH </br>(Rüsselsheim am Main)|Aug 01, 2018 <br />-<br /> Oct 31, 2019|Gauge R&R Study optimization of the robustness of distance measurements in the course of a standard camera calibration procedure|
+|Honda (London)|Feb 01, 2018 <br />-<br /> May 31, 2018|Mathematical modeling of factory workers' performance|
+|Sense Vojta Project at DRK-Kinderklinik (Siegen)|May 01, 2017 <br />-<br /> Jan 31, 2020|ML-driven frequency analysis of body part movements|
+|nexonar Calibration Automation|Mar 01, 2017 <br />-<br /> Jan 31, 2025|Automation of the camera calibration process|
 --------------------------------------------------------------
 ## Language skills
 
