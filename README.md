@@ -20,7 +20,7 @@ I am a theoretical physicist and hold a PhD in Quantum Information Theory (Quant
 |[![QuantumBeats](https://avatars.githubusercontent.com/u/145560600?s=88&v=4)](https://github.com/QuantumBeats)|Quantum Beats|Project collaboration platform|Personal project preferences|  
 |[![ExternalProjects](https://github.com/NenadBalaneskovic/NenadBalaneskovic/blob/8fec594abd966afd51fb5976980d588bb9f94495/ExternalProjects.png)](https://github.com/NenadBalaneskovic/ExternalProjects)|External|External project folder|Diverse external ML projects|
   
-## 🚀 Languages & Technologies
+## 🚀 Programming Languages & Technologies
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat-square)
