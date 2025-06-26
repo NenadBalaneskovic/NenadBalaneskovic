@@ -70,7 +70,7 @@ I am a theoretical physicist and hold a PhD in Quantum Information Theory (Quant
 
 
 --------------------------------------------------------------
-## Personal information [![My CV | English](https://img.shields.io/badge/My%20CV-English-yellowblue?logoColor=blue&labelColor=yellow)](https://github.com/NenadBalaneskovic/NenadBalaneskovic/blob/3824ceae4700eab8bc2e4015cacaa6f7858be419/NenadBalaneskovicCV_2025.pdf)
+## Personal information [![My CV | English](https://img.shields.io/badge/My%20CV-English-yellowblue?logoColor=blue&labelColor=yellow)](https://github.com/NenadBalaneskovic/NenadBalaneskovic/blob/31565895df8f4b705935c92675ee803ebc04dea7/NenadBalaneskovicCV_2025.pdf)
 
 
 
