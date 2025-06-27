@@ -7,7 +7,7 @@ My name is Nenad.
 I am a theoretical physicist and hold a PhD in Quantum Information Theory (Quantum Computing).
 
 - 🔭 I’m currently working on AI/ML-driven algorithm optimization and development via Python.
-- 🌱 I’m currently developing GUIs via PyQt5.
+- 🌱 I’m currently developing GUIs via PyQt and Tkinter.
 - 📫 How to reach me:
 
 
