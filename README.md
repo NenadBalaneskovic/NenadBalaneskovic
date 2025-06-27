@@ -14,7 +14,7 @@ I am a theoretical physicist and hold a PhD in Quantum Information Theory (Quant
 |Source logo| Name| Type of source|Description|
 |:----------:|:----------:|:----------:|:----------:|
 |[![XING](https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Nenad_Balaneskovic/cv)|Xing| Social platform| Job search|
-|[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dr-rer-nat-nenad-balaneskovic-840322223)| LinkedIn|Social platform| Job search|
+|[![LinkedIn](https://github.com/NenadBalaneskovic/NenadBalaneskovic/blob/46ba4f18539628270066a2a1304c8714c9bd6208/linkedin_logo.PNG)](https://www.linkedin.com/in/dr-rer-nat-nenad-balaneskovic-840322223)| LinkedIn|Social platform| Job search|
 | [![jobvector](https://github.com/NenadBalaneskovic/NenadBalaneskovic/blob/79ee93a88073c0c0ab3e396a77f983e597b409bd/jobvector_logo.PNG)](https://www.jobvector.de/talentprofil.html) | jobvector | Career platform for scientists & engineers | Job market & Talent profile |
 | [![StepStone](https://github.com/NenadBalaneskovic/NenadBalaneskovic/blob/3602a203a3be51973e593a7fc19215a7460ee911/stepstone_logo.PNG)](https://www.stepstone.de/profile) | StepStone | Career platform for professionals | Job search & Talent profile |
 | [![Kaggle](https://img.shields.io/badge/Kaggle-blue?logo=kaggle)](https://www.kaggle.com/nenadbalaneskovic)|Kaggle|ML social platform|Competitions & Learning| 
