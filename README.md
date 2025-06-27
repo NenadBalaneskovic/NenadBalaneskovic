@@ -16,7 +16,8 @@ I am a theoretical physicist and hold a PhD in Quantum Information Theory (Quant
 |[![XING](https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Nenad_Balaneskovic/cv)|Xing| Social platform| Job search|
 |[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dr-rer-nat-nenad-balaneskovic-840322223)| LinkedIn|Social platform| Job search|
 | [![Kaggle](https://img.shields.io/badge/Kaggle-blue?logo=kaggle)](https://www.kaggle.com/nenadbalaneskovic)|Kaggle|ML social platform|Competitions & Learning| 
-|[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/nenadBalaneskovic/)|LeetCode|ML social platform|Competitions & Learning|
+|[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/nenadBalaneskovic/)|LeetCode|ML social platform|Competitions & Learning|  
+| [![DrivenData](https://img.shields.io/badge/DrivenData-003366?style=for-the-badge&logo=data&logoColor=white)](https://www.drivendata.org/users/NenadBalaneskovic/) | DrivenData | ML Competition Platform | Competitions & Real-World Impact |
 |[![QuantumBeats](https://avatars.githubusercontent.com/u/145560600?s=88&v=4)](https://github.com/QuantumBeats)|Quantum Beats|Project collaboration platform|Personal project preferences|  
 |[![ExternalProjects](https://github.com/NenadBalaneskovic/NenadBalaneskovic/blob/8fec594abd966afd51fb5976980d588bb9f94495/ExternalProjects.png)](https://github.com/NenadBalaneskovic/ExternalProjects)|External|External project folder|Diverse external ML projects|
   
