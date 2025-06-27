@@ -19,7 +19,7 @@ I am a theoretical physicist and hold a PhD in Quantum Information Theory (Quant
 | [![StepStone](https://github.com/NenadBalaneskovic/NenadBalaneskovic/blob/3602a203a3be51973e593a7fc19215a7460ee911/stepstone_logo.PNG)](https://www.stepstone.de/profile) | StepStone | Career platform for professionals | Job search & Talent profile |
 | [![Kaggle](https://img.shields.io/badge/Kaggle-blue?logo=kaggle)](https://www.kaggle.com/nenadbalaneskovic)|Kaggle|ML social platform|Competitions & Learning| 
 |[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/nenadBalaneskovic/)|LeetCode|ML social platform|Competitions & Learning|  
-| [![DrivenData](https://img.shields.io/badge/DrivenData-003366?style=for-the-badge&logo=data&logoColor=white)](https://www.drivendata.org/users/NenadBalaneskovic/) | DrivenData | ML Competition Platform | Competitions & Real-World Impact |
+| [![DrivenData](https://github.com/NenadBalaneskovic/NenadBalaneskovic/blob/18762dba5f7ae06bc93cc90b0d1824c720370ef6/drivendata_logo.PNG)](https://www.drivendata.org/users/NenadBalaneskovic/) | DrivenData | ML Competition Platform | Competitions & Real-World Impact |
 |[![QuantumBeats](https://avatars.githubusercontent.com/u/145560600?s=88&v=4)](https://github.com/QuantumBeats)|Quantum Beats|Project collaboration platform|Personal project preferences|  
 |[![ExternalProjects](https://github.com/NenadBalaneskovic/NenadBalaneskovic/blob/8fec594abd966afd51fb5976980d588bb9f94495/ExternalProjects.png)](https://github.com/NenadBalaneskovic/ExternalProjects)|External|External project folder|Diverse external ML projects|
   
