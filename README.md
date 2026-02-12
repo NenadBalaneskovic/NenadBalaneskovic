@@ -76,7 +76,13 @@ I am a theoretical physicist and hold a PhD in Quantum Information Theory (Quant
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white&style=flat-square)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&style=flat-square)
 ![Erlang](https://img.shields.io/badge/Erlang-A90533?style=for-the-badge&logo=erlang&logoColor=white&style=flat-square)
-
+![Podman](https://img.shields.io/badge/Podman-892CA0?logo=podman&logoColor=white&style=flat-square)
+![Compose](https://img.shields.io/badge/Compose-2496ED?logo=docker&logoColor=white&style=flat-square)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?logo=obsidian&logoColor=white&style=flat-square)
+![Zotero](https://img.shields.io/badge/Zotero-CC2936?logo=zotero&logoColor=white&style=flat-square)
+![OpenFOAM](https://img.shields.io/badge/OpenFOAM-1B77B9?logo=openfoam&logoColor=white&style=flat-square)
+![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white&style=flat-square)
+![ParaView](https://img.shields.io/badge/ParaView-004B87?logo=paraview&logoColor=white&style=flat-square)
 
 
 --------------------------------------------------------------
