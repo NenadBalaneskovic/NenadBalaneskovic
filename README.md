@@ -81,7 +81,8 @@ I am a theoretical physicist and hold a PhD in Quantum Information Theory (Quant
 ![Zotero](https://img.shields.io/badge/Zotero-CC2936?logo=zotero&logoColor=white&style=flat-square)
 ![OpenFOAM](https://img.shields.io/badge/OpenFOAM-1B77B9?logo=openfoam&logoColor=white&style=flat-square)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white&style=flat-square)
-![ParaView](https://img.shields.io/badge/ParaView-004B87?logo=paraview&logoColor=white&style=flat-square)
+![ParaView](https://img.shields.io/badge/ParaView-004B87?logo=paraview&logoColor=white&style=flat-square) ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=flat-square)
+![Confluence](https://img.shields.io/badge/-Confluence-172B4D?logo=confluence&logoColor=white&style=flat-square)
 
 
 --------------------------------------------------------------
