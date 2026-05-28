@@ -24,7 +24,7 @@ I am a theoretical physicist and hold a PhD in Quantum Information Theory (Quant
 |[![QuantumBeats](https://avatars.githubusercontent.com/u/145560600?s=88&v=4)](https://github.com/QuantumBeats)|Quantum Beats|Project collaboration platform|Personal project preferences|  
 |[![ExternalProjects](https://github.com/NenadBalaneskovic/NenadBalaneskovic/blob/8fec594abd966afd51fb5976980d588bb9f94495/ExternalProjects.png)](https://github.com/NenadBalaneskovic/ExternalProjects)|External|External project folder|Diverse external ML projects|
   
-## 🚀 Programming Languages & Technologies [[<<]](https://github.com/NenadBalaneskovic?tab=overview&from=2025-06-01&to=2025-06-30#hi-there--)
+## 🚀 Programming Languages & Technologies [[<<]](https://github.com/NenadBalaneskovic?tab=overview&from=2025-06-01&to=2025-06-30#hi-there------)
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat-square)
@@ -86,7 +86,7 @@ I am a theoretical physicist and hold a PhD in Quantum Information Theory (Quant
 
 
 --------------------------------------------------------------
-## Personal information [![My CV | English](https://img.shields.io/badge/My%20CV-English-yellowblue?logoColor=blue&labelColor=yellow)](https://github.com/NenadBalaneskovic/NenadBalaneskovic/blob/6c9d4b22264c403dbcf6d4d82ab1af92fe4325c3/NenadBalaneskovicCV_2026.pdf) [![My CV | German](https://img.shields.io/badge/My%20CV-German-yellowblue?logoColor=blue&labelColor=red)](https://github.com/NenadBalaneskovic/NenadBalaneskovic/blob/714c9fd565dc7782716909233131ac7cab18b596/NenadBalaneskovicCV_german_2026.pdf) [[<<]](https://github.com/NenadBalaneskovic?tab=overview&from=2025-06-01&to=2025-06-30#hi-there--)
+## Personal information [![My CV | English](https://img.shields.io/badge/My%20CV-English-yellowblue?logoColor=blue&labelColor=yellow)](https://github.com/NenadBalaneskovic/NenadBalaneskovic/blob/6c9d4b22264c403dbcf6d4d82ab1af92fe4325c3/NenadBalaneskovicCV_2026.pdf) [![My CV | German](https://img.shields.io/badge/My%20CV-German-yellowblue?logoColor=blue&labelColor=red)](https://github.com/NenadBalaneskovic/NenadBalaneskovic/blob/714c9fd565dc7782716909233131ac7cab18b596/NenadBalaneskovicCV_german_2026.pdf) [[<<]](https://github.com/NenadBalaneskovic?tab=overview&from=2025-06-01&to=2025-06-30#hi-there------)
 
 
 
@@ -97,7 +97,7 @@ I am a theoretical physicist and hold a PhD in Quantum Information Theory (Quant
 - Nationality: __German__
 - Marital status: __married__
 --------------------------------------------------------------
-## Professional experience [[<<]](https://github.com/NenadBalaneskovic?tab=overview&from=2025-06-01&to=2025-06-30#hi-there--)
+## Professional experience [[<<]](https://github.com/NenadBalaneskovic?tab=overview&from=2025-06-01&to=2025-06-30#hi-there------)
 
 |Institution| Time period| Type of business|Title|
 |:----------:|:----------:|:----------:|:----------:|
@@ -107,7 +107,7 @@ I am a theoretical physicist and hold a PhD in Quantum Information Theory (Quant
 [^1]: Business area: Tracking systems for automotive, aerospace, medical and general industries
 [^2]: Activity: Data analysis and data engineering as part of various industrial data science projects (automotive, aerospace and medical industries). Development and testing of AI- and ML-algorithms for motion tracking, image processing, signal processing, process automation, quality and reliability control of industrial processes and data mining, as well as design, performance and analysis of experiments involving infra-red cameras and sensors
 --------------------------------------------------------------
-## Leadership and functional experience [[<<]](https://github.com/NenadBalaneskovic?tab=overview&from=2025-06-01&to=2025-06-30#hi-there--)
+## Leadership and functional experience [[<<]](https://github.com/NenadBalaneskovic?tab=overview&from=2025-06-01&to=2025-06-30#hi-there------)
 
 |Institution| Time period|# of people<br /> managed|Description|
 |:----------:|:----------:|:----------:|:----------:|
@@ -115,7 +115,7 @@ I am a theoretical physicist and hold a PhD in Quantum Information Theory (Quant
 |soft2tec GmbH|01. 03. 2019  <br />-  <br />31. 12. 2021|4|Managing maintenance, development and <br />tests of hardware calibration procedures <br /> and ML/AI-driven validation algorithms <br /> in the laboratory department|
 |Institute for Applied Physics, <br />University of Technology Darmstadt|01. 12. 2011  <br />-  <br />31. 12. 2015|5|Managing research and deployment <br />of innovative technology|
 --------------------------------------------------------------
-## Education [[<<]](https://github.com/NenadBalaneskovic?tab=overview&from=2025-06-01&to=2025-06-30#hi-there--)
+## Education [[<<]](https://github.com/NenadBalaneskovic?tab=overview&from=2025-06-01&to=2025-06-30#hi-there------)
 
 |Institution| Time period| Major|Degree|Thesis title|
 |:----------:|:----------:|:----------:|:----------:|:----------:|
@@ -124,7 +124,7 @@ I am a theoretical physicist and hold a PhD in Quantum Information Theory (Quant
 |University of Technology Darmstadt <br/> Institute for Nuclear Physics|01. 10. 2005 - 30. 09. 2008|Physics|BSc (Physics)|"_Nonequilibrium Initial Conditions for Plasma Instabilities_"|
 |Grammar School »_Carl-Schurz-Schule_« in Frankfurt/M|01. 08. 2000 - 30. 06. 2005|Mathematics, Physics|High school diploma|"_Taylor approximation: Theoretical aspects of Taylor series expansion <br/> and their practical application in modern technology_"|
 
-### DPG-conferences [[<<]](https://github.com/NenadBalaneskovic?tab=overview&from=2025-06-01&to=2025-06-30#hi-there--)
+### DPG-conferences [[<<]](https://github.com/NenadBalaneskovic?tab=overview&from=2025-06-01&to=2025-06-30#hi-there------)
 
 |Location|Description|Institution|Date|
 |:----------:|:----------:|:----------:|:----------:|
@@ -133,7 +133,7 @@ I am a theoretical physicist and hold a PhD in Quantum Information Theory (Quant
 |Hannover|Contribution: poster|Deutsche Physikalische Gesellschaft|17. 03. 2013|
 |Stuttgart|Contribution: poster|Deutsche Physikalische Gesellschaft|12. 03. 2012|
 
-### DPG-seminars (in Bad Honnef) [[<<]](https://github.com/NenadBalaneskovic?tab=overview&from=2025-06-01&to=2025-06-30#hi-there--)
+### DPG-seminars (in Bad Honnef) [[<<]](https://github.com/NenadBalaneskovic?tab=overview&from=2025-06-01&to=2025-06-30#hi-there------)
 
 |Description|Institution|Date|
 |:----------:|:----------:|:----------:|
@@ -142,7 +142,7 @@ I am a theoretical physicist and hold a PhD in Quantum Information Theory (Quant
 |Contribution: poster|Deutsche Physikalische Gesellschaft|23. 05. 2015|
 |Contribution: poster|Deutsche Physikalische Gesellschaft|07. 05. 2012|
 
-### Research supervision [[<<]](https://github.com/NenadBalaneskovic?tab=overview&from=2025-06-01&to=2025-06-30#hi-there--)
+### Research supervision [[<<]](https://github.com/NenadBalaneskovic?tab=overview&from=2025-06-01&to=2025-06-30#hi-there------)
 
 |Description| Institution| Time period|
 |:----------:|:----------:|:----------:|
@@ -150,7 +150,7 @@ I am a theoretical physicist and hold a PhD in Quantum Information Theory (Quant
 |Supervision of the Bachelor-Thesis|University of Technology Darmstadt|01. 05. 2014 - 31. 08. 2014|
 |Supervision of the Bachelor-Thesis|University of Technology Darmstadt|01. 05. 2013 - 31. 08. 2013|
 
-### Coordination of tutoring sessions [[<<]](https://github.com/NenadBalaneskovic?tab=overview&from=2025-06-01&to=2025-06-30#hi-there--)
+### Coordination of tutoring sessions [[<<]](https://github.com/NenadBalaneskovic?tab=overview&from=2025-06-01&to=2025-06-30#hi-there------)
 
 |Lecture| Institution| Time period|
 |:----------:|:----------:|:----------:|
@@ -163,7 +163,7 @@ I am a theoretical physicist and hold a PhD in Quantum Information Theory (Quant
 |Quantum Mechanics|University of Technology Darmstadt|01. 04. 2010 - 30. 09. 2010|
 |Classical Mechanics|University of Technology Darmstadt|01. 10. 2009 - 31. 03. 2010|
 --------------------------------------------------------------
-## Additional certified experience [[<<]](https://github.com/NenadBalaneskovic?tab=overview&from=2025-06-01&to=2025-06-30#hi-there--)
+## Additional certified experience [[<<]](https://github.com/NenadBalaneskovic?tab=overview&from=2025-06-01&to=2025-06-30#hi-there------)
 
 |Institution| Time period (or Date)|Name|Description|
 |:----------:|:----------:|:----------:|:----------:|
@@ -178,7 +178,7 @@ I am a theoretical physicist and hold a PhD in Quantum Information Theory (Quant
 |University of Technology Darmstadt|01. 10. 2005 <br />-<br /> 30. 09. 2010|Internship Measurement Technology|Practical physical courses in <br />measurement technology (divisions: <br />Solid state physics, Polymer physics, <br /> Nuclear physics, Astronomy, Optics)|
 [^3]: nexonar's research division on "**C**amera **C**alibration \& **M**easurement **A**ccuracy"
 --------------------------------------------------------------
-## Special assignments / projects [[<<]](https://github.com/NenadBalaneskovic?tab=overview&from=2025-06-01&to=2025-06-30#hi-there--)
+## Special assignments / projects [[<<]](https://github.com/NenadBalaneskovic?tab=overview&from=2025-06-01&to=2025-06-30#hi-there------)
 
 |Institution / project name| Time period (or Date)|Description|
 |:----------:|:----------:|:----------:|
@@ -193,7 +193,7 @@ I am a theoretical physicist and hold a PhD in Quantum Information Theory (Quant
 |Sense Vojta Project at DRK-Kinderklinik (Siegen)|May 01, 2017 <br />-<br /> Jan 31, 2020|ML-driven frequency analysis of body part movements|
 |nexonar Calibration Automation|Mar 01, 2017 <br />-<br /> Jan 31, 2025|Automation of the camera calibration process|
 --------------------------------------------------------------
-## Language skills [[<<]](https://github.com/NenadBalaneskovic?tab=overview&from=2025-06-01&to=2025-06-30#hi-there--)
+## Language skills [[<<]](https://github.com/NenadBalaneskovic?tab=overview&from=2025-06-01&to=2025-06-30#hi-there------)
 
 |Language| Speaking Proficiency| Reading Proficiency|Writing Proficiency|Ability to translate|
 |:----------:|:----------:|:----------:|:----------:|:----------:|
@@ -202,7 +202,7 @@ I am a theoretical physicist and hold a PhD in Quantum Information Theory (Quant
 |Serbo-Croatian|Fluent|Fluent|Fluent|Fluent|
 |Russian|Beginner|Intermediate|Intermediate|Intermediate|
 --------------------------------------------------------------
-## Articles and publications [[<<]](https://github.com/NenadBalaneskovic?tab=overview&from=2025-06-01&to=2025-06-30#hi-there--)
+## Articles and publications [[<<]](https://github.com/NenadBalaneskovic?tab=overview&from=2025-06-01&to=2025-06-30#hi-there------)
 
 |Article| Title| Author(s)|
 |:----------:|:----------:|:----------:|
@@ -210,7 +210,7 @@ I am a theoretical physicist and hold a PhD in Quantum Information Theory (Quant
 |Eur. Phys. J. __D 70__, 177 (2016)|»_Dissipation, dephasing and quantum Darwinism <br />in qubit systems with random unitary interactions_«|Nenad Balaneskovic, Marc Mendler|
 |ISBN __978-3-659-83733-3__, <br />Scolar's Press (2017)|»_Random Unitary Operations and Quantum Darwinism- <br />Environment as an efficient quantum memory_«|Nenad Balaneskovic|
 --------------------------------------------------------------
-## Professional memberships [[<<]](https://github.com/NenadBalaneskovic?tab=overview&from=2025-06-01&to=2025-06-30#hi-there--)
+## Professional memberships [[<<]](https://github.com/NenadBalaneskovic?tab=overview&from=2025-06-01&to=2025-06-30#hi-there------)
 
 |Organization| Position (Role)| Time period|
 |:----------:|:----------:|:----------:|
