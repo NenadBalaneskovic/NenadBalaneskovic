@@ -83,7 +83,10 @@ I am a theoretical physicist and hold a PhD in Quantum Information Theory (Quant
 ![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white&style=flat-square)
 ![ParaView](https://img.shields.io/badge/ParaView-004B87?logo=paraview&logoColor=white&style=flat-square) ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=flat-square)
 ![Confluence](https://img.shields.io/badge/-Confluence-172B4D?logo=confluence&logoColor=white&style=flat-square)
-
+![Slurm](https://img.shields.io/badge/Slurm-2C8EBB?logo=linux&logoColor=white&style=flat-square)
+![KServe](https://img.shields.io/badge/KServe-3D4FC4?logo=kubernetes&logoColor=white&style=flat-square)
+![Crossplane](https://img.shields.io/badge/Crossplane-2C3E50?logo=cloudflare&logoColor=white&style=flat-square)
+![IBQ Quantum Fusion](https://img.shields.io/badge/IBQ_Quantum_Fusion-6A1B9A?logo=apache%20spark&logoColor=white&style=flat-square)
 
 --------------------------------------------------------------
 ## Personal information [![My CV | English](https://img.shields.io/badge/My%20CV-English-yellowblue?logoColor=blue&labelColor=yellow)](https://github.com/NenadBalaneskovic/NenadBalaneskovic/blob/6c9d4b22264c403dbcf6d4d82ab1af92fe4325c3/NenadBalaneskovicCV_2026.pdf) [![My CV | German](https://img.shields.io/badge/My%20CV-German-yellowblue?logoColor=blue&labelColor=red)](https://github.com/NenadBalaneskovic/NenadBalaneskovic/blob/714c9fd565dc7782716909233131ac7cab18b596/NenadBalaneskovicCV_german_2026.pdf) [[<<]](https://github.com/NenadBalaneskovic?tab=overview&from=2025-06-01&to=2025-06-30#hi-there------)
