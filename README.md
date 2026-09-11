@@ -53,7 +53,7 @@ I am a theoretical physicist and hold a PhD in Quantum Information Theory (Quant
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square)
 ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat-square)
-![Dagster](https://img.shields.io/badge/-Dagster-1E4EAC?style=flat-square)
+![Dagster](https://img.shields.io/badge/Dagster-4B32C3?logo=pinboard&logoColor=white&style=flat-square)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black&style=flat-square)
@@ -86,7 +86,9 @@ I am a theoretical physicist and hold a PhD in Quantum Information Theory (Quant
 ![Slurm](https://img.shields.io/badge/Slurm-2C8EBB?logo=linux&logoColor=white&style=flat-square)
 ![KServe](https://img.shields.io/badge/KServe-3D4FC4?logo=kubernetes&logoColor=white&style=flat-square)
 ![Crossplane](https://img.shields.io/badge/Crossplane-2C3E50?logo=cloudflare&logoColor=white&style=flat-square)
-![IBQ Quantum Fusion](https://img.shields.io/badge/IBQ_Quantum_Fusion-6A1B9A?logo=apache%20spark&logoColor=white&style=flat-square)
+![IBQ Quantum Fusion](https://img.shields.io/badge/IBQ_Quantum_Fusion-6A1B9A?logo=apache%20spark&logoColor=white&style=flat-square) ![Claude AI](https://img.shields.io/badge/Claude_AI-4A148C?logo=claude&logoColor=white&style=flat-square)
+![Perplexity](https://img.shields.io/badge/Perplexity_AI-0066FF?logo=perplexity&logoColor=white&style=flat-square) ![ML Studio](https://img.shields.io/badge/ML_Studio-7C3AED?logo=microsoftazure&logoColor=white&style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-333333?logo=go&logoColor=white&style=flat-square)
 
 --------------------------------------------------------------
 ## Personal information [![My CV | English](https://img.shields.io/badge/My%20CV-English-yellowblue?logoColor=blue&labelColor=yellow)](https://github.com/NenadBalaneskovic/NenadBalaneskovic/blob/6c9d4b22264c403dbcf6d4d82ab1af92fe4325c3/NenadBalaneskovicCV_2026.pdf) [![My CV | German](https://img.shields.io/badge/My%20CV-German-yellowblue?logoColor=blue&labelColor=red)](https://github.com/NenadBalaneskovic/NenadBalaneskovic/blob/714c9fd565dc7782716909233131ac7cab18b596/NenadBalaneskovicCV_german_2026.pdf) [[<<]](https://github.com/NenadBalaneskovic?tab=overview&from=2025-06-01&to=2025-06-30#hi-there------)
