@@ -1,7 +1,7 @@
 # Hi there 👋 [![ShortCV](https://img.shields.io/badge/Short%20CV-German-blue?logoColor=blue&labelColor=red)](https://github.com/NenadBalaneskovic/NenadBalaneskovic/blob/84ebb62cd5155de212c8c6105f08cbb27816c927/Lebenslauf_2%20Seiten_FINAL.pdf) [![ShortCV](https://img.shields.io/badge/Short%20CV-English-blue?logoColor=blue&labelColor=green)](https://github.com/NenadBalaneskovic/NenadBalaneskovic/blob/b567ecc5a5c78f69f60a1865b37f8f263fd1b954/Lebenslauf_English_2%20Seiten_FINAL.pdf) [![My Wiki](https://img.shields.io/badge/My%20Wiki-English-blue?logoColor=blue&labelColor=yellow)](https://github.com/NenadBalaneskovic/NenadBalaneskovic/wiki) [![GitHub Wiki](https://img.shields.io/badge/GitHub-External_Wiki-blue?style=flat&logo=github)](https://github.com/NenadBalaneskovic/ExternalProjects/wiki) [![GitHub Main Wiki](https://img.shields.io/badge/GitHub-External_Wiki_2-green?style=flat&logo=github)](https://github.com/NenadBalaneskovic/NenadBalaneskovic/wiki/External-ML-AI-Projects)
 
 
-![MainImage](https://github.com/NenadBalaneskovic/NenadBalaneskovic/blob/040a445cc13cb719e989c40bee82fac15bdad22f/FinalPic.png)
+![MainImage](https://github.com/NenadBalaneskovic/NenadBalaneskovic/blob/21331caba30da4d7ffe892e1b19008683eb96410/FinalPic.png)
 
 My name is Nenad.  
 I am a theoretical physicist and hold a PhD in Quantum Information Theory (Quantum Computing).
